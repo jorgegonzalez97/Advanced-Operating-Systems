@@ -1,0 +1,11 @@
+INFO:root:
+Connected to INDEXING SERVER : 127.0.0.1 : 3000
+INFO:root:Listening as 127.0.0.1 : 5546
+
+INFO:root:Registered for Peer-to-Peer downloads
+INFO:root:
+ Download file: test1.txt from peer node: ["('127.0.0.1', 57920)", '4456']
+INFO:root:
+Connected to peer : 127.0.0.1 : 4456
+INFO:root:
+File test1.txt (31985 bytes ) successfully downloaded. Time taken: 0.043691158294677734

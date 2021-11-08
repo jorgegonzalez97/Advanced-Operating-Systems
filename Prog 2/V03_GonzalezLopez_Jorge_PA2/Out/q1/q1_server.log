@@ -1,0 +1,20 @@
+INFO:root:Listening as 127.0.0.1 : 3000
+
+INFO:root:Client('127.0.0.1', 57914) connected to server.  Total connections: 1
+INFO:root:Client('127.0.0.1', 57916) connected to server.  Total connections: 2
+INFO:root:Client('127.0.0.1', 57918) connected to server.  Total connections: 3
+INFO:root:Client('127.0.0.1', 57920) connected to server.  Total connections: 4
+INFO:root:Client: ('127.0.0.1', 57916) registered.
+INFO:root:Client: ('127.0.0.1', 57918) registered.
+INFO:root:Client: ('127.0.0.1', 57920) registered.
+INFO:root:Client: ('127.0.0.1', 57914) registered.
+INFO:root:Client ('127.0.0.1', 57920) requested to download file: test3.txt
+INFO:root:Client: ('127.0.0.1', 57920) added a file.
+INFO:root:Client ('127.0.0.1', 57918) requested to download file: test1.txt
+INFO:root:Client ('127.0.0.1', 57916) requested to download file: test2.txt
+INFO:root:Client: ('127.0.0.1', 57916) added a file.
+INFO:root:Client ('127.0.0.1', 57914) requested to download file: test1.txt
+INFO:root:Client ('127.0.0.1', 57920) requested to download file: test2.txt
+INFO:root:Client: ('127.0.0.1', 57920) added a file.
+INFO:root:Client: ('127.0.0.1', 57918) added a file.
+INFO:root:Client: ('127.0.0.1', 57914) added a file.
