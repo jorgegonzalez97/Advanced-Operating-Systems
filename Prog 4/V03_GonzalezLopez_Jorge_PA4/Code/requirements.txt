@@ -1,0 +1,16 @@
+## Requirements needed to run the server and the client
+
+# socket
+# hashlib
+# os
+# threading
+# sys
+# time
+# logging
+# random
+# re
+# uuid
+# math
+
+## ALL OF THEM ARE INCLUDED IN THE PYTHON'S STANDARD LIBRARY
+

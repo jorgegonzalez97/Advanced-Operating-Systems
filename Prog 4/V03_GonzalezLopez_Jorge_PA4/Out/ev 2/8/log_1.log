@@ -1,0 +1,36 @@
+INFO:root:
+Connected to INDEXING SERVER : 127.0.0.1 : 3000
+INFO:root:Listening as 127.0.0.1 : 4001
+
+INFO:root:Registered for Peer-to-Peer downloads
+INFO:root:Client('127.0.0.1', 53282) connected.  Total connections: 2
+INFO:root:Client('127.0.0.1', 53316) connected.  Total connections: 3
+INFO:root:File specs received
+INFO:root:Chunk sent to client ('127.0.0.1', 53316). Size: 131072 with offset: 0
+INFO:root:Client('127.0.0.1', 53332) connected.  Total connections: 3
+INFO:root:File specs received
+INFO:root:Chunk sent to client ('127.0.0.1', 53332). Size: 131072 with offset: 0
+INFO:root:Client('127.0.0.1', 53348) connected.  Total connections: 3
+INFO:root:File specs received
+INFO:root:Chunk sent to client ('127.0.0.1', 53348). Size: 131072 with offset: 0
+INFO:root:Client('127.0.0.1', 53364) connected.  Total connections: 3
+INFO:root:File specs received
+INFO:root:Chunk sent to client ('127.0.0.1', 53364). Size: 131072 with offset: 0
+INFO:root:Client('127.0.0.1', 53380) connected.  Total connections: 3
+INFO:root:File specs received
+INFO:root:Chunk sent to client ('127.0.0.1', 53380). Size: 131072 with offset: 0
+INFO:root:Client('127.0.0.1', 53396) connected.  Total connections: 3
+INFO:root:File specs received
+INFO:root:Chunk sent to client ('127.0.0.1', 53396). Size: 131072 with offset: 0
+INFO:root:Client('127.0.0.1', 53412) connected.  Total connections: 3
+INFO:root:File specs received
+INFO:root:Chunk sent to client ('127.0.0.1', 53412). Size: 131072 with offset: 0
+INFO:root:Client('127.0.0.1', 53428) connected.  Total connections: 3
+INFO:root:File specs received
+INFO:root:Chunk sent to client ('127.0.0.1', 53428). Size: 131072 with offset: 0
+INFO:root:Client('127.0.0.1', 53444) connected.  Total connections: 3
+INFO:root:File specs received
+INFO:root:Chunk sent to client ('127.0.0.1', 53444). Size: 131072 with offset: 0
+INFO:root:Client('127.0.0.1', 53460) connected.  Total connections: 3
+INFO:root:File specs received
+INFO:root:Chunk sent to client ('127.0.0.1', 53460). Size: 131072 with offset: 0

@@ -1,0 +1,36 @@
+INFO:root:
+Connected to INDEXING SERVER : 127.0.0.1 : 3000
+INFO:root:Listening as 127.0.0.1 : 40014
+
+INFO:root:Registered for Peer-to-Peer downloads
+INFO:root:Client('127.0.0.1', 49382) connected.  Total connections: 2
+INFO:root:Client('127.0.0.1', 49422) connected.  Total connections: 3
+INFO:root:File specs received
+INFO:root:Chunk sent to client ('127.0.0.1', 49422). Size: 65536 with offset: 851968
+INFO:root:Client('127.0.0.1', 49454) connected.  Total connections: 3
+INFO:root:File specs received
+INFO:root:Chunk sent to client ('127.0.0.1', 49454). Size: 65536 with offset: 851968
+INFO:root:Client('127.0.0.1', 49486) connected.  Total connections: 3
+INFO:root:File specs received
+INFO:root:Chunk sent to client ('127.0.0.1', 49486). Size: 65536 with offset: 851968
+INFO:root:Client('127.0.0.1', 49518) connected.  Total connections: 3
+INFO:root:File specs received
+INFO:root:Chunk sent to client ('127.0.0.1', 49518). Size: 65536 with offset: 851968
+INFO:root:Client('127.0.0.1', 49550) connected.  Total connections: 3
+INFO:root:File specs received
+INFO:root:Chunk sent to client ('127.0.0.1', 49550). Size: 65536 with offset: 851968
+INFO:root:Client('127.0.0.1', 49582) connected.  Total connections: 3
+INFO:root:File specs received
+INFO:root:Chunk sent to client ('127.0.0.1', 49582). Size: 65536 with offset: 851968
+INFO:root:Client('127.0.0.1', 49614) connected.  Total connections: 3
+INFO:root:File specs received
+INFO:root:Chunk sent to client ('127.0.0.1', 49614). Size: 65536 with offset: 851968
+INFO:root:Client('127.0.0.1', 49646) connected.  Total connections: 3
+INFO:root:File specs received
+INFO:root:Chunk sent to client ('127.0.0.1', 49646). Size: 65536 with offset: 851968
+INFO:root:Client('127.0.0.1', 49678) connected.  Total connections: 3
+INFO:root:File specs received
+INFO:root:Chunk sent to client ('127.0.0.1', 49678). Size: 65536 with offset: 851968
+INFO:root:Client('127.0.0.1', 49710) connected.  Total connections: 3
+INFO:root:File specs received
+INFO:root:Chunk sent to client ('127.0.0.1', 49710). Size: 65536 with offset: 851968

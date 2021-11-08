@@ -1,0 +1,36 @@
+INFO:root:
+Connected to INDEXING SERVER : 127.0.0.1 : 3000
+INFO:root:Listening as 127.0.0.1 : 4002
+
+INFO:root:Registered for Peer-to-Peer downloads
+INFO:root:Client('127.0.0.1', 46174) connected.  Total connections: 2
+INFO:root:Client('127.0.0.1', 46238) connected.  Total connections: 3
+INFO:root:File specs received
+INFO:root:Chunk sent to client ('127.0.0.1', 46238). Size: 65536 with offset: 65536
+INFO:root:Client('127.0.0.1', 46272) connected.  Total connections: 3
+INFO:root:File specs received
+INFO:root:Chunk sent to client ('127.0.0.1', 46272). Size: 65536 with offset: 65536
+INFO:root:Client('127.0.0.1', 46302) connected.  Total connections: 3
+INFO:root:File specs received
+INFO:root:Chunk sent to client ('127.0.0.1', 46302). Size: 65536 with offset: 65536
+INFO:root:Client('127.0.0.1', 46334) connected.  Total connections: 3
+INFO:root:File specs received
+INFO:root:Chunk sent to client ('127.0.0.1', 46334). Size: 65536 with offset: 65536
+INFO:root:Client('127.0.0.1', 46366) connected.  Total connections: 3
+INFO:root:File specs received
+INFO:root:Chunk sent to client ('127.0.0.1', 46366). Size: 65536 with offset: 65536
+INFO:root:Client('127.0.0.1', 46398) connected.  Total connections: 3
+INFO:root:File specs received
+INFO:root:Chunk sent to client ('127.0.0.1', 46398). Size: 65536 with offset: 65536
+INFO:root:Client('127.0.0.1', 46430) connected.  Total connections: 3
+INFO:root:File specs received
+INFO:root:Chunk sent to client ('127.0.0.1', 46430). Size: 65536 with offset: 65536
+INFO:root:Client('127.0.0.1', 46462) connected.  Total connections: 3
+INFO:root:File specs received
+INFO:root:Chunk sent to client ('127.0.0.1', 46462). Size: 65536 with offset: 65536
+INFO:root:Client('127.0.0.1', 46494) connected.  Total connections: 3
+INFO:root:File specs received
+INFO:root:Chunk sent to client ('127.0.0.1', 46494). Size: 65536 with offset: 65536
+INFO:root:Client('127.0.0.1', 46526) connected.  Total connections: 3
+INFO:root:File specs received
+INFO:root:Chunk sent to client ('127.0.0.1', 46526). Size: 65536 with offset: 65536

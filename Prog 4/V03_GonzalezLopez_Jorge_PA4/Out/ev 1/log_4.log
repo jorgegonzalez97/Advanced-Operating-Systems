@@ -1,0 +1,49 @@
+INFO:root:
+Connected to INDEXING SERVER : 127.0.0.1 : 3000
+INFO:root:Listening as 127.0.0.1 : 4030
+
+INFO:root:Registered for Peer-to-Peer downloads
+INFO:root:Client('127.0.0.1', 48294) connected.  Total connections: 2
+INFO:root:Client('127.0.0.1', 48304) connected.  Total connections: 3
+INFO:root:File specs received
+INFO:root:Chunk sent to client ('127.0.0.1', 48304). Size: 262144 with offset: 524288
+INFO:root:Client('127.0.0.1', 48310) connected.  Total connections: 4
+INFO:root:File specs received
+INFO:root:Chunk sent to client ('127.0.0.1', 48310). Size: 262144 with offset: 524288
+INFO:root:Client('127.0.0.1', 48318) connected.  Total connections: 5
+INFO:root:
+ File: 4.txt has been queried for download.
+INFO:root:Downloading Chunk 0 from: ["'127.0.0.1'", "'4000'"]. Size: 262144 with offset: 0
+INFO:root:
+Connected to peer : 127.0.0.1 : 4000
+INFO:root:File specs received
+INFO:root:Chunk sent to client ('127.0.0.1', 48318). Size: 262144 with offset: 524288
+INFO:root:Downloading Chunk 1 from: ["'127.0.0.1'", "'4010'"]. Size: 262144 with offset: 262144
+INFO:root:Downloading Chunk 2 from: ["'127.0.0.1'", "'4020'"]. Size: 262144 with offset: 524288
+INFO:root:
+Connected to peer : 127.0.0.1 : 4010
+INFO:root:Client('127.0.0.1', 48332) connected.  Total connections: 9
+INFO:root:Downloading Chunk 3 from: ["'127.0.0.1'", "'4040'"]. Size: 262144 with offset: 786432
+INFO:root:
+Connected to peer : 127.0.0.1 : 4020
+INFO:root:
+Connected to peer : 127.0.0.1 : 4040
+INFO:root:File specs received
+INFO:root:Chunk sent to client ('127.0.0.1', 48332). Size: 262144 with offset: 786432
+INFO:root:
+Chunk from client 4010 of file 4.txt has been correctly downloaded. Length: 262144 , with offset: 262144
+INFO:root:
+Chunk from client 4020 of file 4.txt has been correctly downloaded. Length: 262144 , with offset: 524288
+INFO:root:
+Chunk from client 4040 of file 4.txt has been correctly downloaded. Length: 262144 , with offset: 786432
+INFO:root:
+Chunk from client 4000 of file 4.txt has been correctly downloaded. Length: 262144 , with offset: 0
+INFO:root:
+File 4.txt correctly downloaded from:
+
+INFO:root:	--> Client 4000 , chunk 0. At time: 1617849325.9329927
+INFO:root:	--> Client 4010 , chunk 1. At time: 1617849325.8777354
+INFO:root:	--> Client 4020 , chunk 2. At time: 1617849325.8689032
+INFO:root:	--> Client 4040 , chunk 3. At time: 1617849325.8813221
+INFO:root:
+Total time to download all the chunks: 0.13899946212768555 sec.

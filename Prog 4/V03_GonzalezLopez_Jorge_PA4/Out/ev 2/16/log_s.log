@@ -1,0 +1,46 @@
+INFO:root:Listening as 127.0.0.1 : 3000
+
+INFO:root:Client('127.0.0.1', 57650) connected to server.  Total connections: 1
+INFO:root:Client: ('127.0.0.1', 57650) registered.
+INFO:root:Client('127.0.0.1', 57654) connected to server.  Total connections: 2
+INFO:root:Client: ('127.0.0.1', 57654) registered.
+INFO:root:Client('127.0.0.1', 57658) connected to server.  Total connections: 3
+INFO:root:Client: ('127.0.0.1', 57658) registered.
+INFO:root:Client('127.0.0.1', 57662) connected to server.  Total connections: 4
+INFO:root:Client: ('127.0.0.1', 57662) registered.
+INFO:root:Client('127.0.0.1', 57666) connected to server.  Total connections: 5
+INFO:root:Client: ('127.0.0.1', 57666) registered.
+INFO:root:Client('127.0.0.1', 57670) connected to server.  Total connections: 6
+INFO:root:Client: ('127.0.0.1', 57670) registered.
+INFO:root:Client('127.0.0.1', 57674) connected to server.  Total connections: 7
+INFO:root:Client: ('127.0.0.1', 57674) registered.
+INFO:root:Client('127.0.0.1', 57678) connected to server.  Total connections: 8
+INFO:root:Client: ('127.0.0.1', 57678) registered.
+INFO:root:Client('127.0.0.1', 57682) connected to server.  Total connections: 9
+INFO:root:Client: ('127.0.0.1', 57682) registered.
+INFO:root:Client('127.0.0.1', 57686) connected to server.  Total connections: 10
+INFO:root:Client: ('127.0.0.1', 57686) registered.
+INFO:root:Client('127.0.0.1', 57690) connected to server.  Total connections: 11
+INFO:root:Client: ('127.0.0.1', 57690) registered.
+INFO:root:Client('127.0.0.1', 57694) connected to server.  Total connections: 12
+INFO:root:Client: ('127.0.0.1', 57694) registered.
+INFO:root:Client('127.0.0.1', 57698) connected to server.  Total connections: 13
+INFO:root:Client: ('127.0.0.1', 57698) registered.
+INFO:root:Client('127.0.0.1', 57702) connected to server.  Total connections: 14
+INFO:root:Client: ('127.0.0.1', 57702) registered.
+INFO:root:Client('127.0.0.1', 57706) connected to server.  Total connections: 15
+INFO:root:Client: ('127.0.0.1', 57706) registered.
+INFO:root:Client('127.0.0.1', 57710) connected to server.  Total connections: 16
+INFO:root:Client: ('127.0.0.1', 57710) registered.
+INFO:root:Client('127.0.0.1', 57714) connected to server.  Total connections: 17
+INFO:root:Client: ('127.0.0.1', 57714) registered.
+INFO:root:Client: ('127.0.0.1', 57714) added a file.
+INFO:root:Client: ('127.0.0.1', 57714) added a file.
+INFO:root:Client: ('127.0.0.1', 57714) added a file.
+INFO:root:Client: ('127.0.0.1', 57714) added a file.
+INFO:root:Client: ('127.0.0.1', 57714) added a file.
+INFO:root:Client: ('127.0.0.1', 57714) added a file.
+INFO:root:Client: ('127.0.0.1', 57714) added a file.
+INFO:root:Client: ('127.0.0.1', 57714) added a file.
+INFO:root:Client: ('127.0.0.1', 57714) added a file.
+INFO:root:Client: ('127.0.0.1', 57714) added a file.

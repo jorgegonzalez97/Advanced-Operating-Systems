@@ -1,0 +1,36 @@
+INFO:root:
+Connected to INDEXING SERVER : 127.0.0.1 : 3000
+INFO:root:Listening as 127.0.0.1 : 4002
+
+INFO:root:Registered for Peer-to-Peer downloads
+INFO:root:Client('127.0.0.1', 45976) connected.  Total connections: 2
+INFO:root:Client('127.0.0.1', 46008) connected.  Total connections: 3
+INFO:root:File specs received
+INFO:root:Chunk sent to client ('127.0.0.1', 46008). Size: 131072 with offset: 131072
+INFO:root:Client('127.0.0.1', 46024) connected.  Total connections: 3
+INFO:root:File specs received
+INFO:root:Chunk sent to client ('127.0.0.1', 46024). Size: 131072 with offset: 131072
+INFO:root:Client('127.0.0.1', 46040) connected.  Total connections: 3
+INFO:root:File specs received
+INFO:root:Chunk sent to client ('127.0.0.1', 46040). Size: 131072 with offset: 131072
+INFO:root:Client('127.0.0.1', 46056) connected.  Total connections: 3
+INFO:root:File specs received
+INFO:root:Chunk sent to client ('127.0.0.1', 46056). Size: 131072 with offset: 131072
+INFO:root:Client('127.0.0.1', 46072) connected.  Total connections: 3
+INFO:root:File specs received
+INFO:root:Chunk sent to client ('127.0.0.1', 46072). Size: 131072 with offset: 131072
+INFO:root:Client('127.0.0.1', 46088) connected.  Total connections: 3
+INFO:root:File specs received
+INFO:root:Chunk sent to client ('127.0.0.1', 46088). Size: 131072 with offset: 131072
+INFO:root:Client('127.0.0.1', 46104) connected.  Total connections: 3
+INFO:root:File specs received
+INFO:root:Chunk sent to client ('127.0.0.1', 46104). Size: 131072 with offset: 131072
+INFO:root:Client('127.0.0.1', 46120) connected.  Total connections: 3
+INFO:root:File specs received
+INFO:root:Chunk sent to client ('127.0.0.1', 46120). Size: 131072 with offset: 131072
+INFO:root:Client('127.0.0.1', 46136) connected.  Total connections: 3
+INFO:root:File specs received
+INFO:root:Chunk sent to client ('127.0.0.1', 46136). Size: 131072 with offset: 131072
+INFO:root:Client('127.0.0.1', 46152) connected.  Total connections: 3
+INFO:root:File specs received
+INFO:root:Chunk sent to client ('127.0.0.1', 46152). Size: 131072 with offset: 131072

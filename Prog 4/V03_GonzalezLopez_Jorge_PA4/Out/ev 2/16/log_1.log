@@ -1,0 +1,36 @@
+INFO:root:
+Connected to INDEXING SERVER : 127.0.0.1 : 3000
+INFO:root:Listening as 127.0.0.1 : 4001
+
+INFO:root:Registered for Peer-to-Peer downloads
+INFO:root:Client('127.0.0.1', 53480) connected.  Total connections: 2
+INFO:root:Client('127.0.0.1', 53546) connected.  Total connections: 3
+INFO:root:File specs received
+INFO:root:Chunk sent to client ('127.0.0.1', 53546). Size: 65536 with offset: 0
+INFO:root:Client('127.0.0.1', 53578) connected.  Total connections: 3
+INFO:root:File specs received
+INFO:root:Chunk sent to client ('127.0.0.1', 53578). Size: 65536 with offset: 0
+INFO:root:Client('127.0.0.1', 53610) connected.  Total connections: 3
+INFO:root:File specs received
+INFO:root:Chunk sent to client ('127.0.0.1', 53610). Size: 65536 with offset: 0
+INFO:root:Client('127.0.0.1', 53642) connected.  Total connections: 3
+INFO:root:File specs received
+INFO:root:Chunk sent to client ('127.0.0.1', 53642). Size: 65536 with offset: 0
+INFO:root:Client('127.0.0.1', 53674) connected.  Total connections: 3
+INFO:root:File specs received
+INFO:root:Chunk sent to client ('127.0.0.1', 53674). Size: 65536 with offset: 0
+INFO:root:Client('127.0.0.1', 53706) connected.  Total connections: 3
+INFO:root:File specs received
+INFO:root:Chunk sent to client ('127.0.0.1', 53706). Size: 65536 with offset: 0
+INFO:root:Client('127.0.0.1', 53738) connected.  Total connections: 3
+INFO:root:File specs received
+INFO:root:Chunk sent to client ('127.0.0.1', 53738). Size: 65536 with offset: 0
+INFO:root:Client('127.0.0.1', 53770) connected.  Total connections: 3
+INFO:root:File specs received
+INFO:root:Chunk sent to client ('127.0.0.1', 53770). Size: 65536 with offset: 0
+INFO:root:Client('127.0.0.1', 53802) connected.  Total connections: 3
+INFO:root:File specs received
+INFO:root:Chunk sent to client ('127.0.0.1', 53802). Size: 65536 with offset: 0
+INFO:root:Client('127.0.0.1', 53834) connected.  Total connections: 3
+INFO:root:File specs received
+INFO:root:Chunk sent to client ('127.0.0.1', 53834). Size: 65536 with offset: 0

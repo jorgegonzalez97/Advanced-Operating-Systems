@@ -1,0 +1,36 @@
+INFO:root:
+Connected to INDEXING SERVER : 127.0.0.1 : 3000
+INFO:root:Listening as 127.0.0.1 : 4001
+
+INFO:root:Client('127.0.0.1', 53126) connected.  Total connections: 2
+INFO:root:Registered for Peer-to-Peer downloads
+INFO:root:Client('127.0.0.1', 53136) connected.  Total connections: 3
+INFO:root:File specs received
+INFO:root:Chunk sent to client ('127.0.0.1', 53136). Size: 524288 with offset: 0
+INFO:root:Client('127.0.0.1', 53140) connected.  Total connections: 3
+INFO:root:File specs received
+INFO:root:Chunk sent to client ('127.0.0.1', 53140). Size: 524288 with offset: 0
+INFO:root:Client('127.0.0.1', 53144) connected.  Total connections: 3
+INFO:root:File specs received
+INFO:root:Chunk sent to client ('127.0.0.1', 53144). Size: 524288 with offset: 0
+INFO:root:Client('127.0.0.1', 53148) connected.  Total connections: 3
+INFO:root:File specs received
+INFO:root:Chunk sent to client ('127.0.0.1', 53148). Size: 524288 with offset: 0
+INFO:root:Client('127.0.0.1', 53152) connected.  Total connections: 3
+INFO:root:File specs received
+INFO:root:Chunk sent to client ('127.0.0.1', 53152). Size: 524288 with offset: 0
+INFO:root:Client('127.0.0.1', 53156) connected.  Total connections: 3
+INFO:root:File specs received
+INFO:root:Chunk sent to client ('127.0.0.1', 53156). Size: 524288 with offset: 0
+INFO:root:Client('127.0.0.1', 53160) connected.  Total connections: 3
+INFO:root:File specs received
+INFO:root:Chunk sent to client ('127.0.0.1', 53160). Size: 524288 with offset: 0
+INFO:root:Client('127.0.0.1', 53164) connected.  Total connections: 3
+INFO:root:File specs received
+INFO:root:Chunk sent to client ('127.0.0.1', 53164). Size: 524288 with offset: 0
+INFO:root:Client('127.0.0.1', 53168) connected.  Total connections: 3
+INFO:root:File specs received
+INFO:root:Chunk sent to client ('127.0.0.1', 53168). Size: 524288 with offset: 0
+INFO:root:Client('127.0.0.1', 53172) connected.  Total connections: 3
+INFO:root:File specs received
+INFO:root:Chunk sent to client ('127.0.0.1', 53172). Size: 524288 with offset: 0

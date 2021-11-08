@@ -1,0 +1,1038 @@
+INFO:root:
+Connected to INDEXING SERVER : 127.0.0.1 : 3000
+INFO:root:Listening as 127.0.0.1 : 5003
+
+INFO:root:Registered for Peer-to-Peer downloads
+INFO:root:Client('127.0.0.1', 42258) connected.  Total connections: 2
+INFO:root:
+ File: 0.txt has been queried for download.
+INFO:root:
+ File: 1.txt has been queried for download.
+INFO:root:Downloading Chunk 0 from: ["'127.0.0.1'", "'4001'"]. Size: 65536 with offset: 0
+INFO:root:Downloading Chunk 1 from: ["'127.0.0.1'", "'4002'"]. Size: 65536 with offset: 65536
+INFO:root:
+Connected to peer : 127.0.0.1 : 4001
+INFO:root:
+Connected to peer : 127.0.0.1 : 4002
+INFO:root:Downloading Chunk 2 from: ["'127.0.0.1'", "'4003'"]. Size: 65536 with offset: 131072
+INFO:root:Downloading Chunk 3 from: ["'127.0.0.1'", "'4004'"]. Size: 65536 with offset: 196608
+INFO:root:
+Chunk from client 4001 of file 1.txt has been correctly downloaded. Length: 65536 , with offset: 0
+INFO:root:Downloading Chunk 4 from: ["'127.0.0.1'", "'4005'"]. Size: 65536 with offset: 262144
+INFO:root:
+Connected to peer : 127.0.0.1 : 4004
+INFO:root:
+Chunk from client 4002 of file 1.txt has been correctly downloaded. Length: 65536 , with offset: 65536
+INFO:root:
+Connected to peer : 127.0.0.1 : 4003
+INFO:root:
+Connected to peer : 127.0.0.1 : 4005
+INFO:root:Downloading Chunk 5 from: ["'127.0.0.1'", "'4006'"]. Size: 65536 with offset: 327680
+INFO:root:
+Chunk from client 4003 of file 1.txt has been correctly downloaded. Length: 65536 , with offset: 131072
+INFO:root:
+Chunk from client 4005 of file 1.txt has been correctly downloaded. Length: 65536 , with offset: 262144
+INFO:root:
+Chunk from client 4004 of file 1.txt has been correctly downloaded. Length: 65536 , with offset: 196608
+INFO:root:Downloading Chunk 6 from: ["'127.0.0.1'", "'4007'"]. Size: 65536 with offset: 393216
+INFO:root:
+Connected to peer : 127.0.0.1 : 4006
+INFO:root:
+Connected to peer : 127.0.0.1 : 4007
+INFO:root:Downloading Chunk 7 from: ["'127.0.0.1'", "'4008'"]. Size: 65536 with offset: 458752
+INFO:root:Downloading Chunk 8 from: ["'127.0.0.1'", "'4009'"]. Size: 65536 with offset: 524288
+INFO:root:
+Connected to peer : 127.0.0.1 : 4008
+INFO:root:
+Chunk from client 4006 of file 1.txt has been correctly downloaded. Length: 65536 , with offset: 327680
+INFO:root:
+Chunk from client 4007 of file 1.txt has been correctly downloaded. Length: 65536 , with offset: 393216
+INFO:root:
+Chunk from client 4008 of file 1.txt has been correctly downloaded. Length: 65536 , with offset: 458752
+INFO:root:Downloading Chunk 9 from: ["'127.0.0.1'", "'40010'"]. Size: 65536 with offset: 589824
+INFO:root:
+Connected to peer : 127.0.0.1 : 4009
+INFO:root:Downloading Chunk 10 from: ["'127.0.0.1'", "'40011'"]. Size: 65536 with offset: 655360
+INFO:root:
+Connected to peer : 127.0.0.1 : 40010
+INFO:root:Downloading Chunk 11 from: ["'127.0.0.1'", "'40012'"]. Size: 65536 with offset: 720896
+INFO:root:
+Connected to peer : 127.0.0.1 : 40011
+INFO:root:Downloading Chunk 12 from: ["'127.0.0.1'", "'40013'"]. Size: 65536 with offset: 786432
+INFO:root:
+Chunk from client 4009 of file 1.txt has been correctly downloaded. Length: 65536 , with offset: 524288
+INFO:root:
+Chunk from client 40010 of file 1.txt has been correctly downloaded. Length: 65536 , with offset: 589824
+INFO:root:Downloading Chunk 13 from: ["'127.0.0.1'", "'40014'"]. Size: 65536 with offset: 851968
+INFO:root:
+Connected to peer : 127.0.0.1 : 40013
+INFO:root:
+Connected to peer : 127.0.0.1 : 40014
+INFO:root:Downloading Chunk 14 from: ["'127.0.0.1'", "'40015'"]. Size: 65536 with offset: 917504
+INFO:root:
+Chunk from client 40011 of file 1.txt has been correctly downloaded. Length: 65536 , with offset: 655360
+INFO:root:
+Connected to peer : 127.0.0.1 : 40012
+INFO:root:
+Chunk from client 40013 of file 1.txt has been correctly downloaded. Length: 65536 , with offset: 786432
+INFO:root:Downloading Chunk 15 from: ["'127.0.0.1'", "'40016'"]. Size: 65536 with offset: 983040
+INFO:root:
+Chunk from client 40014 of file 1.txt has been correctly downloaded. Length: 65536 , with offset: 851968
+INFO:root:
+Connected to peer : 127.0.0.1 : 40015
+INFO:root:
+Connected to peer : 127.0.0.1 : 40016
+INFO:root:
+Chunk from client 40012 of file 1.txt has been correctly downloaded. Length: 65536 , with offset: 720896
+INFO:root:
+Chunk from client 40015 of file 1.txt has been correctly downloaded. Length: 65536 , with offset: 917504
+INFO:root:
+Chunk from client 40016 of file 1.txt has been correctly downloaded. Length: 65536 , with offset: 983040
+INFO:root:
+File 1.txt correctly downloaded from:
+
+INFO:root:	--> Client 4001 , chunk 0. At time: 1617852526.7543144
+INFO:root:	--> Client 4002 , chunk 1. At time: 1617852526.7569993
+INFO:root:	--> Client 4003 , chunk 2. At time: 1617852526.7631125
+INFO:root:	--> Client 4004 , chunk 3. At time: 1617852526.7602186
+INFO:root:	--> Client 4005 , chunk 4. At time: 1617852526.7655706
+INFO:root:	--> Client 4006 , chunk 5. At time: 1617852526.7692661
+INFO:root:	--> Client 4007 , chunk 6. At time: 1617852526.7701216
+INFO:root:	--> Client 4008 , chunk 7. At time: 1617852526.7729874
+INFO:root:	--> Client 4009 , chunk 8. At time: 1617852526.781864
+INFO:root:	--> Client 40010 , chunk 9. At time: 1617852526.7818425
+INFO:root:	--> Client 40011 , chunk 10. At time: 1617852526.7859178
+INFO:root:	--> Client 40012 , chunk 11. At time: 1617852526.8004704
+INFO:root:	--> Client 40013 , chunk 12. At time: 1617852526.7890086
+INFO:root:	--> Client 40014 , chunk 13. At time: 1617852526.7987642
+INFO:root:	--> Client 40015 , chunk 14. At time: 1617852526.8094301
+INFO:root:	--> Client 40016 , chunk 15. At time: 1617852526.812817
+INFO:root:
+Total time to download all the chunks: 0.07046747207641602 sec.
+INFO:root:
+ File: 2.txt has been queried for download.
+INFO:root:Downloading Chunk 0 from: ["'127.0.0.1'", "'4001'"]. Size: 65536 with offset: 0
+INFO:root:
+Connected to peer : 127.0.0.1 : 4001
+INFO:root:Downloading Chunk 1 from: ["'127.0.0.1'", "'4002'"]. Size: 65536 with offset: 65536
+INFO:root:Downloading Chunk 2 from: ["'127.0.0.1'", "'4003'"]. Size: 65536 with offset: 131072
+INFO:root:
+Connected to peer : 127.0.0.1 : 4003
+INFO:root:
+Connected to peer : 127.0.0.1 : 4002
+INFO:root:Downloading Chunk 3 from: ["'127.0.0.1'", "'4004'"]. Size: 65536 with offset: 196608
+INFO:root:Downloading Chunk 4 from: ["'127.0.0.1'", "'4005'"]. Size: 65536 with offset: 262144
+INFO:root:Downloading Chunk 5 from: ["'127.0.0.1'", "'4006'"]. Size: 65536 with offset: 327680
+INFO:root:
+Connected to peer : 127.0.0.1 : 4005
+INFO:root:Downloading Chunk 6 from: ["'127.0.0.1'", "'4007'"]. Size: 65536 with offset: 393216
+INFO:root:Downloading Chunk 7 from: ["'127.0.0.1'", "'4008'"]. Size: 65536 with offset: 458752
+INFO:root:
+Chunk from client 4002 of file 2.txt has been correctly downloaded. Length: 65536 , with offset: 65536
+INFO:root:
+Chunk from client 4003 of file 2.txt has been correctly downloaded. Length: 65536 , with offset: 131072
+INFO:root:
+Connected to peer : 127.0.0.1 : 4006
+INFO:root:
+Connected to peer : 127.0.0.1 : 4004
+INFO:root:
+Chunk from client 4001 of file 2.txt has been correctly downloaded. Length: 65536 , with offset: 0
+INFO:root:
+Chunk from client 4006 of file 2.txt has been correctly downloaded. Length: 65536 , with offset: 327680
+INFO:root:
+Chunk from client 4005 of file 2.txt has been correctly downloaded. Length: 65536 , with offset: 262144
+INFO:root:
+Connected to peer : 127.0.0.1 : 4007
+INFO:root:
+Chunk from client 4004 of file 2.txt has been correctly downloaded. Length: 65536 , with offset: 196608
+INFO:root:
+Chunk from client 4007 of file 2.txt has been correctly downloaded. Length: 65536 , with offset: 393216
+INFO:root:Downloading Chunk 8 from: ["'127.0.0.1'", "'4009'"]. Size: 65536 with offset: 524288
+INFO:root:Downloading Chunk 9 from: ["'127.0.0.1'", "'40010'"]. Size: 65536 with offset: 589824
+INFO:root:
+Connected to peer : 127.0.0.1 : 4008
+INFO:root:
+Connected to peer : 127.0.0.1 : 4009
+INFO:root:
+Chunk from client 4008 of file 2.txt has been correctly downloaded. Length: 65536 , with offset: 458752
+INFO:root:
+Connected to peer : 127.0.0.1 : 40010
+INFO:root:Downloading Chunk 10 from: ["'127.0.0.1'", "'40011'"]. Size: 65536 with offset: 655360
+INFO:root:Downloading Chunk 11 from: ["'127.0.0.1'", "'40012'"]. Size: 65536 with offset: 720896
+INFO:root:
+Connected to peer : 127.0.0.1 : 40011
+INFO:root:
+Chunk from client 4009 of file 2.txt has been correctly downloaded. Length: 65536 , with offset: 524288
+INFO:root:Downloading Chunk 12 from: ["'127.0.0.1'", "'40013'"]. Size: 65536 with offset: 786432
+INFO:root:
+Connected to peer : 127.0.0.1 : 40012
+INFO:root:
+Chunk from client 40010 of file 2.txt has been correctly downloaded. Length: 65536 , with offset: 589824
+INFO:root:Downloading Chunk 13 from: ["'127.0.0.1'", "'40014'"]. Size: 65536 with offset: 851968
+INFO:root:
+Chunk from client 40011 of file 2.txt has been correctly downloaded. Length: 65536 , with offset: 655360
+INFO:root:
+Connected to peer : 127.0.0.1 : 40013
+INFO:root:
+Connected to peer : 127.0.0.1 : 40014
+INFO:root:
+Chunk from client 40012 of file 2.txt has been correctly downloaded. Length: 65536 , with offset: 720896
+INFO:root:
+Chunk from client 40013 of file 2.txt has been correctly downloaded. Length: 65536 , with offset: 786432
+INFO:root:Downloading Chunk 14 from: ["'127.0.0.1'", "'40015'"]. Size: 65536 with offset: 917504
+INFO:root:Downloading Chunk 15 from: ["'127.0.0.1'", "'40016'"]. Size: 65536 with offset: 983040
+INFO:root:
+Connected to peer : 127.0.0.1 : 40015
+INFO:root:
+Connected to peer : 127.0.0.1 : 40016
+INFO:root:
+Chunk from client 40014 of file 2.txt has been correctly downloaded. Length: 65536 , with offset: 851968
+INFO:root:
+Chunk from client 40016 of file 2.txt has been correctly downloaded. Length: 65536 , with offset: 983040
+INFO:root:
+Chunk from client 40015 of file 2.txt has been correctly downloaded. Length: 65536 , with offset: 917504
+INFO:root:
+File 2.txt correctly downloaded from:
+
+INFO:root:	--> Client 4001 , chunk 0. At time: 1617852527.7682316
+INFO:root:	--> Client 4002 , chunk 1. At time: 1617852527.7681773
+INFO:root:	--> Client 4003 , chunk 2. At time: 1617852527.768935
+INFO:root:	--> Client 4004 , chunk 3. At time: 1617852527.7815127
+INFO:root:	--> Client 4005 , chunk 4. At time: 1617852527.7736213
+INFO:root:	--> Client 4006 , chunk 5. At time: 1617852527.7785776
+INFO:root:	--> Client 4007 , chunk 6. At time: 1617852527.7847013
+INFO:root:	--> Client 4008 , chunk 7. At time: 1617852527.7877507
+INFO:root:	--> Client 4009 , chunk 8. At time: 1617852527.7910497
+INFO:root:	--> Client 40010 , chunk 9. At time: 1617852527.7928889
+INFO:root:	--> Client 40011 , chunk 10. At time: 1617852527.7950659
+INFO:root:	--> Client 40012 , chunk 11. At time: 1617852527.8001206
+INFO:root:	--> Client 40013 , chunk 12. At time: 1617852527.8027306
+INFO:root:	--> Client 40014 , chunk 13. At time: 1617852527.817263
+INFO:root:	--> Client 40015 , chunk 14. At time: 1617852527.818738
+INFO:root:	--> Client 40016 , chunk 15. At time: 1617852527.8182573
+INFO:root:
+Total time to download all the chunks: 0.06027984619140625 sec.
+INFO:root:
+ File: 3.txt has been queried for download.
+INFO:root:Downloading Chunk 0 from: ["'127.0.0.1'", "'4001'"]. Size: 65536 with offset: 0
+INFO:root:
+Connected to peer : 127.0.0.1 : 4001
+INFO:root:Downloading Chunk 1 from: ["'127.0.0.1'", "'4002'"]. Size: 65536 with offset: 65536
+INFO:root:Downloading Chunk 2 from: ["'127.0.0.1'", "'4003'"]. Size: 65536 with offset: 131072
+INFO:root:
+Connected to peer : 127.0.0.1 : 4002
+INFO:root:
+Connected to peer : 127.0.0.1 : 4003
+INFO:root:Downloading Chunk 3 from: ["'127.0.0.1'", "'4004'"]. Size: 65536 with offset: 196608
+INFO:root:
+Chunk from client 4001 of file 3.txt has been correctly downloaded. Length: 65536 , with offset: 0
+INFO:root:Downloading Chunk 4 from: ["'127.0.0.1'", "'4005'"]. Size: 65536 with offset: 262144
+INFO:root:
+Chunk from client 4002 of file 3.txt has been correctly downloaded. Length: 65536 , with offset: 65536
+INFO:root:
+Connected to peer : 127.0.0.1 : 4004
+INFO:root:
+Chunk from client 4003 of file 3.txt has been correctly downloaded. Length: 65536 , with offset: 131072
+INFO:root:
+Connected to peer : 127.0.0.1 : 4005
+INFO:root:Downloading Chunk 5 from: ["'127.0.0.1'", "'4006'"]. Size: 65536 with offset: 327680
+INFO:root:Downloading Chunk 6 from: ["'127.0.0.1'", "'4007'"]. Size: 65536 with offset: 393216
+INFO:root:
+Chunk from client 4004 of file 3.txt has been correctly downloaded. Length: 65536 , with offset: 196608
+INFO:root:
+Connected to peer : 127.0.0.1 : 4006
+INFO:root:
+Chunk from client 4005 of file 3.txt has been correctly downloaded. Length: 65536 , with offset: 262144
+INFO:root:
+Chunk from client 4006 of file 3.txt has been correctly downloaded. Length: 65536 , with offset: 327680
+INFO:root:Downloading Chunk 7 from: ["'127.0.0.1'", "'4008'"]. Size: 65536 with offset: 458752
+INFO:root:
+Connected to peer : 127.0.0.1 : 4008
+INFO:root:Downloading Chunk 8 from: ["'127.0.0.1'", "'4009'"]. Size: 65536 with offset: 524288
+INFO:root:
+Connected to peer : 127.0.0.1 : 4007
+INFO:root:Downloading Chunk 9 from: ["'127.0.0.1'", "'40010'"]. Size: 65536 with offset: 589824
+INFO:root:
+Connected to peer : 127.0.0.1 : 4009
+INFO:root:
+Connected to peer : 127.0.0.1 : 40010
+INFO:root:Downloading Chunk 10 from: ["'127.0.0.1'", "'40011'"]. Size: 65536 with offset: 655360
+INFO:root:
+Chunk from client 4008 of file 3.txt has been correctly downloaded. Length: 65536 , with offset: 458752
+INFO:root:
+Chunk from client 4007 of file 3.txt has been correctly downloaded. Length: 65536 , with offset: 393216
+INFO:root:Downloading Chunk 11 from: ["'127.0.0.1'", "'40012'"]. Size: 65536 with offset: 720896
+INFO:root:
+Connected to peer : 127.0.0.1 : 40011
+INFO:root:
+Chunk from client 4009 of file 3.txt has been correctly downloaded. Length: 65536 , with offset: 524288
+INFO:root:
+Chunk from client 40010 of file 3.txt has been correctly downloaded. Length: 65536 , with offset: 589824
+INFO:root:Downloading Chunk 12 from: ["'127.0.0.1'", "'40013'"]. Size: 65536 with offset: 786432
+INFO:root:
+Connected to peer : 127.0.0.1 : 40012
+INFO:root:Downloading Chunk 13 from: ["'127.0.0.1'", "'40014'"]. Size: 65536 with offset: 851968
+INFO:root:
+Chunk from client 40011 of file 3.txt has been correctly downloaded. Length: 65536 , with offset: 655360
+INFO:root:
+Connected to peer : 127.0.0.1 : 40013
+INFO:root:Downloading Chunk 14 from: ["'127.0.0.1'", "'40015'"]. Size: 65536 with offset: 917504
+INFO:root:
+Connected to peer : 127.0.0.1 : 40014
+INFO:root:
+Chunk from client 40012 of file 3.txt has been correctly downloaded. Length: 65536 , with offset: 720896
+INFO:root:Downloading Chunk 15 from: ["'127.0.0.1'", "'40016'"]. Size: 65536 with offset: 983040
+INFO:root:
+Connected to peer : 127.0.0.1 : 40016
+INFO:root:
+Connected to peer : 127.0.0.1 : 40015
+INFO:root:
+Chunk from client 40014 of file 3.txt has been correctly downloaded. Length: 65536 , with offset: 851968
+INFO:root:
+Chunk from client 40013 of file 3.txt has been correctly downloaded. Length: 65536 , with offset: 786432
+INFO:root:
+Chunk from client 40015 of file 3.txt has been correctly downloaded. Length: 65536 , with offset: 917504
+INFO:root:
+Chunk from client 40016 of file 3.txt has been correctly downloaded. Length: 65536 , with offset: 983040
+INFO:root:
+File 3.txt correctly downloaded from:
+
+INFO:root:	--> Client 4001 , chunk 0. At time: 1617852528.781115
+INFO:root:	--> Client 4002 , chunk 1. At time: 1617852528.7811637
+INFO:root:	--> Client 4003 , chunk 2. At time: 1617852528.7833974
+INFO:root:	--> Client 4004 , chunk 3. At time: 1617852528.7901802
+INFO:root:	--> Client 4005 , chunk 4. At time: 1617852528.794292
+INFO:root:	--> Client 4006 , chunk 5. At time: 1617852528.797497
+INFO:root:	--> Client 4007 , chunk 6. At time: 1617852528.806258
+INFO:root:	--> Client 4008 , chunk 7. At time: 1617852528.8040822
+INFO:root:	--> Client 4009 , chunk 8. At time: 1617852528.8094954
+INFO:root:	--> Client 40010 , chunk 9. At time: 1617852528.815552
+INFO:root:	--> Client 40011 , chunk 10. At time: 1617852528.8186796
+INFO:root:	--> Client 40012 , chunk 11. At time: 1617852528.8225374
+INFO:root:	--> Client 40013 , chunk 12. At time: 1617852528.82741
+INFO:root:	--> Client 40014 , chunk 13. At time: 1617852528.829244
+INFO:root:	--> Client 40015 , chunk 14. At time: 1617852528.8309836
+INFO:root:	--> Client 40016 , chunk 15. At time: 1617852528.8304827
+INFO:root:
+Total time to download all the chunks: 0.05661320686340332 sec.
+INFO:root:
+ File: 4.txt has been queried for download.
+INFO:root:Downloading Chunk 0 from: ["'127.0.0.1'", "'4001'"]. Size: 65536 with offset: 0
+INFO:root:Downloading Chunk 1 from: ["'127.0.0.1'", "'4002'"]. Size: 65536 with offset: 65536
+INFO:root:Downloading Chunk 2 from: ["'127.0.0.1'", "'4003'"]. Size: 65536 with offset: 131072
+INFO:root:
+Connected to peer : 127.0.0.1 : 4001
+INFO:root:
+Connected to peer : 127.0.0.1 : 4002
+INFO:root:
+Connected to peer : 127.0.0.1 : 4003
+INFO:root:Downloading Chunk 3 from: ["'127.0.0.1'", "'4004'"]. Size: 65536 with offset: 196608
+INFO:root:
+Chunk from client 4002 of file 4.txt has been correctly downloaded. Length: 65536 , with offset: 65536
+INFO:root:Downloading Chunk 4 from: ["'127.0.0.1'", "'4005'"]. Size: 65536 with offset: 262144
+INFO:root:
+Connected to peer : 127.0.0.1 : 4004
+INFO:root:
+Connected to peer : 127.0.0.1 : 4005
+INFO:root:
+Chunk from client 4003 of file 4.txt has been correctly downloaded. Length: 65536 , with offset: 131072
+INFO:root:Downloading Chunk 5 from: ["'127.0.0.1'", "'4006'"]. Size: 65536 with offset: 327680
+INFO:root:Downloading Chunk 6 from: ["'127.0.0.1'", "'4007'"]. Size: 65536 with offset: 393216
+INFO:root:Downloading Chunk 7 from: ["'127.0.0.1'", "'4008'"]. Size: 65536 with offset: 458752
+INFO:root:
+Chunk from client 4004 of file 4.txt has been correctly downloaded. Length: 65536 , with offset: 196608
+INFO:root:
+Chunk from client 4001 of file 4.txt has been correctly downloaded. Length: 65536 , with offset: 0
+INFO:root:
+Connected to peer : 127.0.0.1 : 4006
+INFO:root:
+Connected to peer : 127.0.0.1 : 4007
+INFO:root:
+Chunk from client 4005 of file 4.txt has been correctly downloaded. Length: 65536 , with offset: 262144
+INFO:root:
+Connected to peer : 127.0.0.1 : 4008
+INFO:root:Downloading Chunk 8 from: ["'127.0.0.1'", "'4009'"]. Size: 65536 with offset: 524288
+INFO:root:
+Connected to peer : 127.0.0.1 : 4009
+INFO:root:
+Chunk from client 4007 of file 4.txt has been correctly downloaded. Length: 65536 , with offset: 393216
+INFO:root:Downloading Chunk 9 from: ["'127.0.0.1'", "'40010'"]. Size: 65536 with offset: 589824
+INFO:root:
+Chunk from client 4006 of file 4.txt has been correctly downloaded. Length: 65536 , with offset: 327680
+INFO:root:
+Chunk from client 4008 of file 4.txt has been correctly downloaded. Length: 65536 , with offset: 458752
+INFO:root:
+Connected to peer : 127.0.0.1 : 40010
+INFO:root:Downloading Chunk 10 from: ["'127.0.0.1'", "'40011'"]. Size: 65536 with offset: 655360
+INFO:root:
+Chunk from client 40010 of file 4.txt has been correctly downloaded. Length: 65536 , with offset: 589824
+INFO:root:
+Chunk from client 4009 of file 4.txt has been correctly downloaded. Length: 65536 , with offset: 524288
+INFO:root:Downloading Chunk 11 from: ["'127.0.0.1'", "'40012'"]. Size: 65536 with offset: 720896
+INFO:root:
+Connected to peer : 127.0.0.1 : 40011
+INFO:root:
+Connected to peer : 127.0.0.1 : 40012
+INFO:root:Downloading Chunk 12 from: ["'127.0.0.1'", "'40013'"]. Size: 65536 with offset: 786432
+INFO:root:Downloading Chunk 13 from: ["'127.0.0.1'", "'40014'"]. Size: 65536 with offset: 851968
+INFO:root:
+Connected to peer : 127.0.0.1 : 40013
+INFO:root:Downloading Chunk 14 from: ["'127.0.0.1'", "'40015'"]. Size: 65536 with offset: 917504
+INFO:root:
+Connected to peer : 127.0.0.1 : 40015
+INFO:root:
+Chunk from client 40012 of file 4.txt has been correctly downloaded. Length: 65536 , with offset: 720896
+INFO:root:Downloading Chunk 15 from: ["'127.0.0.1'", "'40016'"]. Size: 65536 with offset: 983040
+INFO:root:
+Chunk from client 40011 of file 4.txt has been correctly downloaded. Length: 65536 , with offset: 655360
+INFO:root:
+Connected to peer : 127.0.0.1 : 40016
+INFO:root:
+Chunk from client 40013 of file 4.txt has been correctly downloaded. Length: 65536 , with offset: 786432
+INFO:root:
+Connected to peer : 127.0.0.1 : 40014
+INFO:root:
+Chunk from client 40015 of file 4.txt has been correctly downloaded. Length: 65536 , with offset: 917504
+INFO:root:
+Chunk from client 40016 of file 4.txt has been correctly downloaded. Length: 65536 , with offset: 983040
+INFO:root:
+Chunk from client 40014 of file 4.txt has been correctly downloaded. Length: 65536 , with offset: 851968
+INFO:root:
+File 4.txt correctly downloaded from:
+
+INFO:root:	--> Client 4001 , chunk 0. At time: 1617852529.80774
+INFO:root:	--> Client 4002 , chunk 1. At time: 1617852529.80903
+INFO:root:	--> Client 4003 , chunk 2. At time: 1617852529.8121386
+INFO:root:	--> Client 4004 , chunk 3. At time: 1617852529.8170018
+INFO:root:	--> Client 4005 , chunk 4. At time: 1617852529.8198764
+INFO:root:	--> Client 4006 , chunk 5. At time: 1617852529.8276665
+INFO:root:	--> Client 4007 , chunk 6. At time: 1617852529.8288999
+INFO:root:	--> Client 4008 , chunk 7. At time: 1617852529.8364172
+INFO:root:	--> Client 4009 , chunk 8. At time: 1617852529.8425345
+INFO:root:	--> Client 40010 , chunk 9. At time: 1617852529.842393
+INFO:root:	--> Client 40011 , chunk 10. At time: 1617852529.8509912
+INFO:root:	--> Client 40012 , chunk 11. At time: 1617852529.8510642
+INFO:root:	--> Client 40013 , chunk 12. At time: 1617852529.8515627
+INFO:root:	--> Client 40014 , chunk 13. At time: 1617852529.8636367
+INFO:root:	--> Client 40015 , chunk 14. At time: 1617852529.8605092
+INFO:root:	--> Client 40016 , chunk 15. At time: 1617852529.8632455
+INFO:root:
+Total time to download all the chunks: 0.06553792953491211 sec.
+INFO:root:
+ File: 5.txt has been queried for download.
+INFO:root:Downloading Chunk 0 from: ["'127.0.0.1'", "'4001'"]. Size: 65536 with offset: 0
+INFO:root:Downloading Chunk 1 from: ["'127.0.0.1'", "'4002'"]. Size: 65536 with offset: 65536
+INFO:root:Downloading Chunk 2 from: ["'127.0.0.1'", "'4003'"]. Size: 65536 with offset: 131072
+INFO:root:
+Connected to peer : 127.0.0.1 : 4003
+INFO:root:Downloading Chunk 3 from: ["'127.0.0.1'", "'4004'"]. Size: 65536 with offset: 196608
+INFO:root:Downloading Chunk 4 from: ["'127.0.0.1'", "'4005'"]. Size: 65536 with offset: 262144
+INFO:root:
+Connected to peer : 127.0.0.1 : 4001
+INFO:root:
+Connected to peer : 127.0.0.1 : 4002
+INFO:root:
+Connected to peer : 127.0.0.1 : 4004
+INFO:root:
+Chunk from client 4001 of file 5.txt has been correctly downloaded. Length: 65536 , with offset: 0
+INFO:root:
+Chunk from client 4003 of file 5.txt has been correctly downloaded. Length: 65536 , with offset: 131072
+INFO:root:
+Chunk from client 4004 of file 5.txt has been correctly downloaded. Length: 65536 , with offset: 196608
+INFO:root:Downloading Chunk 5 from: ["'127.0.0.1'", "'4006'"]. Size: 65536 with offset: 327680
+INFO:root:Downloading Chunk 6 from: ["'127.0.0.1'", "'4007'"]. Size: 65536 with offset: 393216
+INFO:root:
+Connected to peer : 127.0.0.1 : 4006
+INFO:root:
+Connected to peer : 127.0.0.1 : 4007
+INFO:root:Downloading Chunk 7 from: ["'127.0.0.1'", "'4008'"]. Size: 65536 with offset: 458752
+INFO:root:
+Connected to peer : 127.0.0.1 : 4005
+INFO:root:
+Chunk from client 4002 of file 5.txt has been correctly downloaded. Length: 65536 , with offset: 65536
+INFO:root:
+Chunk from client 4006 of file 5.txt has been correctly downloaded. Length: 65536 , with offset: 327680
+INFO:root:Downloading Chunk 8 from: ["'127.0.0.1'", "'4009'"]. Size: 65536 with offset: 524288
+INFO:root:
+Chunk from client 4005 of file 5.txt has been correctly downloaded. Length: 65536 , with offset: 262144
+INFO:root:
+Chunk from client 4007 of file 5.txt has been correctly downloaded. Length: 65536 , with offset: 393216
+INFO:root:
+Connected to peer : 127.0.0.1 : 4008
+INFO:root:
+Connected to peer : 127.0.0.1 : 4009
+INFO:root:Downloading Chunk 9 from: ["'127.0.0.1'", "'40010'"]. Size: 65536 with offset: 589824
+INFO:root:
+Chunk from client 4008 of file 5.txt has been correctly downloaded. Length: 65536 , with offset: 458752
+INFO:root:Downloading Chunk 10 from: ["'127.0.0.1'", "'40011'"]. Size: 65536 with offset: 655360
+INFO:root:
+Connected to peer : 127.0.0.1 : 40010
+INFO:root:Downloading Chunk 11 from: ["'127.0.0.1'", "'40012'"]. Size: 65536 with offset: 720896
+INFO:root:
+Chunk from client 4009 of file 5.txt has been correctly downloaded. Length: 65536 , with offset: 524288
+INFO:root:
+Connected to peer : 127.0.0.1 : 40011
+INFO:root:
+Chunk from client 40010 of file 5.txt has been correctly downloaded. Length: 65536 , with offset: 589824
+INFO:root:
+Connected to peer : 127.0.0.1 : 40012
+INFO:root:Downloading Chunk 12 from: ["'127.0.0.1'", "'40013'"]. Size: 65536 with offset: 786432
+INFO:root:Downloading Chunk 13 from: ["'127.0.0.1'", "'40014'"]. Size: 65536 with offset: 851968
+INFO:root:
+Connected to peer : 127.0.0.1 : 40013
+INFO:root:Downloading Chunk 14 from: ["'127.0.0.1'", "'40015'"]. Size: 65536 with offset: 917504
+INFO:root:
+Connected to peer : 127.0.0.1 : 40014
+INFO:root:Downloading Chunk 15 from: ["'127.0.0.1'", "'40016'"]. Size: 65536 with offset: 983040
+INFO:root:
+Connected to peer : 127.0.0.1 : 40015
+INFO:root:
+Connected to peer : 127.0.0.1 : 40016
+INFO:root:
+Chunk from client 40011 of file 5.txt has been correctly downloaded. Length: 65536 , with offset: 655360
+INFO:root:
+Chunk from client 40014 of file 5.txt has been correctly downloaded. Length: 65536 , with offset: 851968
+INFO:root:
+Chunk from client 40013 of file 5.txt has been correctly downloaded. Length: 65536 , with offset: 786432
+INFO:root:
+Chunk from client 40015 of file 5.txt has been correctly downloaded. Length: 65536 , with offset: 917504
+INFO:root:
+Chunk from client 40016 of file 5.txt has been correctly downloaded. Length: 65536 , with offset: 983040
+INFO:root:
+Chunk from client 40012 of file 5.txt has been correctly downloaded. Length: 65536 , with offset: 720896
+INFO:root:
+File 5.txt correctly downloaded from:
+
+INFO:root:	--> Client 4001 , chunk 0. At time: 1617852530.8186545
+INFO:root:	--> Client 4002 , chunk 1. At time: 1617852530.8186195
+INFO:root:	--> Client 4003 , chunk 2. At time: 1617852530.8193731
+INFO:root:	--> Client 4004 , chunk 3. At time: 1617852530.8230152
+INFO:root:	--> Client 4005 , chunk 4. At time: 1617852530.8293333
+INFO:root:	--> Client 4006 , chunk 5. At time: 1617852530.8263848
+INFO:root:	--> Client 4007 , chunk 6. At time: 1617852530.827254
+INFO:root:	--> Client 4008 , chunk 7. At time: 1617852530.8357017
+INFO:root:	--> Client 4009 , chunk 8. At time: 1617852530.8376153
+INFO:root:	--> Client 40010 , chunk 9. At time: 1617852530.8406947
+INFO:root:	--> Client 40011 , chunk 10. At time: 1617852530.8428538
+INFO:root:	--> Client 40012 , chunk 11. At time: 1617852530.8559704
+INFO:root:	--> Client 40013 , chunk 12. At time: 1617852530.852125
+INFO:root:	--> Client 40014 , chunk 13. At time: 1617852530.8514612
+INFO:root:	--> Client 40015 , chunk 14. At time: 1617852530.8532677
+INFO:root:	--> Client 40016 , chunk 15. At time: 1617852530.854523
+INFO:root:
+Total time to download all the chunks: 0.047567129135131836 sec.
+INFO:root:
+ File: 6.txt has been queried for download.
+INFO:root:Downloading Chunk 0 from: ["'127.0.0.1'", "'4001'"]. Size: 65536 with offset: 0
+INFO:root:Downloading Chunk 1 from: ["'127.0.0.1'", "'4002'"]. Size: 65536 with offset: 65536
+INFO:root:
+Connected to peer : 127.0.0.1 : 4001
+INFO:root:Downloading Chunk 2 from: ["'127.0.0.1'", "'4003'"]. Size: 65536 with offset: 131072
+INFO:root:
+Connected to peer : 127.0.0.1 : 4002
+INFO:root:Downloading Chunk 3 from: ["'127.0.0.1'", "'4004'"]. Size: 65536 with offset: 196608
+INFO:root:
+Connected to peer : 127.0.0.1 : 4003
+INFO:root:
+Connected to peer : 127.0.0.1 : 4004
+INFO:root:Downloading Chunk 4 from: ["'127.0.0.1'", "'4005'"]. Size: 65536 with offset: 262144
+INFO:root:Downloading Chunk 5 from: ["'127.0.0.1'", "'4006'"]. Size: 65536 with offset: 327680
+INFO:root:
+Chunk from client 4002 of file 6.txt has been correctly downloaded. Length: 65536 , with offset: 65536
+INFO:root:
+Chunk from client 4003 of file 6.txt has been correctly downloaded. Length: 65536 , with offset: 131072
+INFO:root:Downloading Chunk 6 from: ["'127.0.0.1'", "'4007'"]. Size: 65536 with offset: 393216
+INFO:root:
+Chunk from client 4004 of file 6.txt has been correctly downloaded. Length: 65536 , with offset: 196608
+INFO:root:
+Chunk from client 4001 of file 6.txt has been correctly downloaded. Length: 65536 , with offset: 0
+INFO:root:
+Connected to peer : 127.0.0.1 : 4005
+INFO:root:
+Connected to peer : 127.0.0.1 : 4006
+INFO:root:
+Chunk from client 4005 of file 6.txt has been correctly downloaded. Length: 65536 , with offset: 262144
+INFO:root:Downloading Chunk 7 from: ["'127.0.0.1'", "'4008'"]. Size: 65536 with offset: 458752
+INFO:root:Downloading Chunk 8 from: ["'127.0.0.1'", "'4009'"]. Size: 65536 with offset: 524288
+INFO:root:
+Connected to peer : 127.0.0.1 : 4008
+INFO:root:
+Connected to peer : 127.0.0.1 : 4007
+INFO:root:
+Chunk from client 4006 of file 6.txt has been correctly downloaded. Length: 65536 , with offset: 327680
+INFO:root:
+Chunk from client 4008 of file 6.txt has been correctly downloaded. Length: 65536 , with offset: 458752
+INFO:root:
+Chunk from client 4007 of file 6.txt has been correctly downloaded. Length: 65536 , with offset: 393216
+INFO:root:Downloading Chunk 9 from: ["'127.0.0.1'", "'40010'"]. Size: 65536 with offset: 589824
+INFO:root:Downloading Chunk 10 from: ["'127.0.0.1'", "'40011'"]. Size: 65536 with offset: 655360
+INFO:root:
+Connected to peer : 127.0.0.1 : 4009
+INFO:root:
+Connected to peer : 127.0.0.1 : 40011
+INFO:root:Downloading Chunk 11 from: ["'127.0.0.1'", "'40012'"]. Size: 65536 with offset: 720896
+INFO:root:
+Connected to peer : 127.0.0.1 : 40010
+INFO:root:Downloading Chunk 12 from: ["'127.0.0.1'", "'40013'"]. Size: 65536 with offset: 786432
+INFO:root:
+Connected to peer : 127.0.0.1 : 40012
+INFO:root:Downloading Chunk 13 from: ["'127.0.0.1'", "'40014'"]. Size: 65536 with offset: 851968
+INFO:root:
+Connected to peer : 127.0.0.1 : 40013
+INFO:root:Downloading Chunk 14 from: ["'127.0.0.1'", "'40015'"]. Size: 65536 with offset: 917504
+INFO:root:
+Connected to peer : 127.0.0.1 : 40014
+INFO:root:
+Chunk from client 4009 of file 6.txt has been correctly downloaded. Length: 65536 , with offset: 524288
+INFO:root:
+Chunk from client 40012 of file 6.txt has been correctly downloaded. Length: 65536 , with offset: 720896
+INFO:root:
+Chunk from client 40013 of file 6.txt has been correctly downloaded. Length: 65536 , with offset: 786432
+INFO:root:
+Chunk from client 40010 of file 6.txt has been correctly downloaded. Length: 65536 , with offset: 589824
+INFO:root:Downloading Chunk 15 from: ["'127.0.0.1'", "'40016'"]. Size: 65536 with offset: 983040
+INFO:root:
+Chunk from client 40011 of file 6.txt has been correctly downloaded. Length: 65536 , with offset: 655360
+INFO:root:
+Connected to peer : 127.0.0.1 : 40016
+INFO:root:
+Chunk from client 40014 of file 6.txt has been correctly downloaded. Length: 65536 , with offset: 851968
+INFO:root:
+Connected to peer : 127.0.0.1 : 40015
+INFO:root:
+Chunk from client 40016 of file 6.txt has been correctly downloaded. Length: 65536 , with offset: 983040
+INFO:root:
+Chunk from client 40015 of file 6.txt has been correctly downloaded. Length: 65536 , with offset: 917504
+INFO:root:
+File 6.txt correctly downloaded from:
+
+INFO:root:	--> Client 4001 , chunk 0. At time: 1617852531.8238683
+INFO:root:	--> Client 4002 , chunk 1. At time: 1617852531.8238964
+INFO:root:	--> Client 4003 , chunk 2. At time: 1617852531.823916
+INFO:root:	--> Client 4004 , chunk 3. At time: 1617852531.823508
+INFO:root:	--> Client 4005 , chunk 4. At time: 1617852531.829457
+INFO:root:	--> Client 4006 , chunk 5. At time: 1617852531.83002
+INFO:root:	--> Client 4007 , chunk 6. At time: 1617852531.8339648
+INFO:root:	--> Client 4008 , chunk 7. At time: 1617852531.8325272
+INFO:root:	--> Client 4009 , chunk 8. At time: 1617852531.8389854
+INFO:root:	--> Client 40010 , chunk 9. At time: 1617852531.8433273
+INFO:root:	--> Client 40011 , chunk 10. At time: 1617852531.8447134
+INFO:root:	--> Client 40012 , chunk 11. At time: 1617852531.843334
+INFO:root:	--> Client 40013 , chunk 12. At time: 1617852531.8433013
+INFO:root:	--> Client 40014 , chunk 13. At time: 1617852531.8469732
+INFO:root:	--> Client 40015 , chunk 14. At time: 1617852531.854044
+INFO:root:	--> Client 40016 , chunk 15. At time: 1617852531.8507614
+INFO:root:
+Total time to download all the chunks: 0.03456759452819824 sec.
+INFO:root:
+ File: 7.txt has been queried for download.
+INFO:root:Downloading Chunk 0 from: ["'127.0.0.1'", "'4001'"]. Size: 65536 with offset: 0
+INFO:root:Downloading Chunk 1 from: ["'127.0.0.1'", "'4002'"]. Size: 65536 with offset: 65536
+INFO:root:
+Connected to peer : 127.0.0.1 : 4001
+INFO:root:Downloading Chunk 2 from: ["'127.0.0.1'", "'4003'"]. Size: 65536 with offset: 131072
+INFO:root:
+Connected to peer : 127.0.0.1 : 4002
+INFO:root:
+Connected to peer : 127.0.0.1 : 4003
+INFO:root:Downloading Chunk 3 from: ["'127.0.0.1'", "'4004'"]. Size: 65536 with offset: 196608
+INFO:root:
+Chunk from client 4001 of file 7.txt has been correctly downloaded. Length: 65536 , with offset: 0
+INFO:root:
+Chunk from client 4002 of file 7.txt has been correctly downloaded. Length: 65536 , with offset: 65536
+INFO:root:Downloading Chunk 4 from: ["'127.0.0.1'", "'4005'"]. Size: 65536 with offset: 262144
+INFO:root:
+Connected to peer : 127.0.0.1 : 4004
+INFO:root:
+Chunk from client 4003 of file 7.txt has been correctly downloaded. Length: 65536 , with offset: 131072
+INFO:root:Downloading Chunk 5 from: ["'127.0.0.1'", "'4006'"]. Size: 65536 with offset: 327680
+INFO:root:
+Chunk from client 4004 of file 7.txt has been correctly downloaded. Length: 65536 , with offset: 196608
+INFO:root:
+Connected to peer : 127.0.0.1 : 4005
+INFO:root:
+Chunk from client 4005 of file 7.txt has been correctly downloaded. Length: 65536 , with offset: 262144
+INFO:root:Downloading Chunk 6 from: ["'127.0.0.1'", "'4007'"]. Size: 65536 with offset: 393216
+INFO:root:Downloading Chunk 7 from: ["'127.0.0.1'", "'4008'"]. Size: 65536 with offset: 458752
+INFO:root:
+Connected to peer : 127.0.0.1 : 4007
+INFO:root:
+Connected to peer : 127.0.0.1 : 4006
+INFO:root:
+Connected to peer : 127.0.0.1 : 4008
+INFO:root:Downloading Chunk 8 from: ["'127.0.0.1'", "'4009'"]. Size: 65536 with offset: 524288
+INFO:root:
+Chunk from client 4006 of file 7.txt has been correctly downloaded. Length: 65536 , with offset: 327680
+INFO:root:
+Chunk from client 4007 of file 7.txt has been correctly downloaded. Length: 65536 , with offset: 393216
+INFO:root:
+Chunk from client 4008 of file 7.txt has been correctly downloaded. Length: 65536 , with offset: 458752
+INFO:root:Downloading Chunk 9 from: ["'127.0.0.1'", "'40010'"]. Size: 65536 with offset: 589824
+INFO:root:
+Connected to peer : 127.0.0.1 : 4009
+INFO:root:
+Connected to peer : 127.0.0.1 : 40010
+INFO:root:Downloading Chunk 10 from: ["'127.0.0.1'", "'40011'"]. Size: 65536 with offset: 655360
+INFO:root:Downloading Chunk 11 from: ["'127.0.0.1'", "'40012'"]. Size: 65536 with offset: 720896
+INFO:root:
+Connected to peer : 127.0.0.1 : 40011
+INFO:root:Downloading Chunk 12 from: ["'127.0.0.1'", "'40013'"]. Size: 65536 with offset: 786432
+INFO:root:
+Connected to peer : 127.0.0.1 : 40012
+INFO:root:Downloading Chunk 13 from: ["'127.0.0.1'", "'40014'"]. Size: 65536 with offset: 851968
+INFO:root:
+Connected to peer : 127.0.0.1 : 40013
+INFO:root:Downloading Chunk 14 from: ["'127.0.0.1'", "'40015'"]. Size: 65536 with offset: 917504
+INFO:root:
+Connected to peer : 127.0.0.1 : 40014
+INFO:root:Downloading Chunk 15 from: ["'127.0.0.1'", "'40016'"]. Size: 65536 with offset: 983040
+INFO:root:
+Connected to peer : 127.0.0.1 : 40015
+INFO:root:
+Chunk from client 4009 of file 7.txt has been correctly downloaded. Length: 65536 , with offset: 524288
+INFO:root:
+Chunk from client 40010 of file 7.txt has been correctly downloaded. Length: 65536 , with offset: 589824
+INFO:root:
+Chunk from client 40012 of file 7.txt has been correctly downloaded. Length: 65536 , with offset: 720896
+INFO:root:
+Chunk from client 40011 of file 7.txt has been correctly downloaded. Length: 65536 , with offset: 655360
+INFO:root:
+Chunk from client 40014 of file 7.txt has been correctly downloaded. Length: 65536 , with offset: 851968
+INFO:root:
+Chunk from client 40013 of file 7.txt has been correctly downloaded. Length: 65536 , with offset: 786432
+INFO:root:
+Connected to peer : 127.0.0.1 : 40016
+INFO:root:
+Chunk from client 40015 of file 7.txt has been correctly downloaded. Length: 65536 , with offset: 917504
+INFO:root:
+Chunk from client 40016 of file 7.txt has been correctly downloaded. Length: 65536 , with offset: 983040
+INFO:root:
+File 7.txt correctly downloaded from:
+
+INFO:root:	--> Client 4001 , chunk 0. At time: 1617852532.8500457
+INFO:root:	--> Client 4002 , chunk 1. At time: 1617852532.8608434
+INFO:root:	--> Client 4003 , chunk 2. At time: 1617852532.8692234
+INFO:root:	--> Client 4004 , chunk 3. At time: 1617852532.87413
+INFO:root:	--> Client 4005 , chunk 4. At time: 1617852532.8779645
+INFO:root:	--> Client 4006 , chunk 5. At time: 1617852532.8815958
+INFO:root:	--> Client 4007 , chunk 6. At time: 1617852532.8828254
+INFO:root:	--> Client 4008 , chunk 7. At time: 1617852532.882264
+INFO:root:	--> Client 4009 , chunk 8. At time: 1617852532.8906596
+INFO:root:	--> Client 40010 , chunk 9. At time: 1617852532.8962417
+INFO:root:	--> Client 40011 , chunk 10. At time: 1617852532.896795
+INFO:root:	--> Client 40012 , chunk 11. At time: 1617852532.8985941
+INFO:root:	--> Client 40013 , chunk 12. At time: 1617852532.896731
+INFO:root:	--> Client 40014 , chunk 13. At time: 1617852532.8977876
+INFO:root:	--> Client 40015 , chunk 14. At time: 1617852532.9035676
+INFO:root:	--> Client 40016 , chunk 15. At time: 1617852532.9069445
+INFO:root:
+Total time to download all the chunks: 0.06423473358154297 sec.
+INFO:root:
+ File: 8.txt has been queried for download.
+INFO:root:Downloading Chunk 0 from: ["'127.0.0.1'", "'4001'"]. Size: 65536 with offset: 0
+INFO:root:Downloading Chunk 1 from: ["'127.0.0.1'", "'4002'"]. Size: 65536 with offset: 65536
+INFO:root:
+Connected to peer : 127.0.0.1 : 4001
+INFO:root:Downloading Chunk 2 from: ["'127.0.0.1'", "'4003'"]. Size: 65536 with offset: 131072
+INFO:root:
+Connected to peer : 127.0.0.1 : 4002
+INFO:root:Downloading Chunk 3 from: ["'127.0.0.1'", "'4004'"]. Size: 65536 with offset: 196608
+INFO:root:
+Connected to peer : 127.0.0.1 : 4004
+INFO:root:Downloading Chunk 4 from: ["'127.0.0.1'", "'4005'"]. Size: 65536 with offset: 262144
+INFO:root:Downloading Chunk 5 from: ["'127.0.0.1'", "'4006'"]. Size: 65536 with offset: 327680
+INFO:root:
+Chunk from client 4001 of file 8.txt has been correctly downloaded. Length: 65536 , with offset: 0
+INFO:root:
+Connected to peer : 127.0.0.1 : 4003
+INFO:root:
+Connected to peer : 127.0.0.1 : 4005
+INFO:root:
+Chunk from client 4002 of file 8.txt has been correctly downloaded. Length: 65536 , with offset: 65536
+INFO:root:
+Chunk from client 4004 of file 8.txt has been correctly downloaded. Length: 65536 , with offset: 196608
+INFO:root:
+Chunk from client 4005 of file 8.txt has been correctly downloaded. Length: 65536 , with offset: 262144
+INFO:root:
+Chunk from client 4003 of file 8.txt has been correctly downloaded. Length: 65536 , with offset: 131072
+INFO:root:Downloading Chunk 6 from: ["'127.0.0.1'", "'4007'"]. Size: 65536 with offset: 393216
+INFO:root:Downloading Chunk 7 from: ["'127.0.0.1'", "'4008'"]. Size: 65536 with offset: 458752
+INFO:root:
+Connected to peer : 127.0.0.1 : 4007
+INFO:root:Downloading Chunk 8 from: ["'127.0.0.1'", "'4009'"]. Size: 65536 with offset: 524288
+INFO:root:
+Connected to peer : 127.0.0.1 : 4006
+INFO:root:
+Connected to peer : 127.0.0.1 : 4008
+INFO:root:
+Chunk from client 4006 of file 8.txt has been correctly downloaded. Length: 65536 , with offset: 327680
+INFO:root:
+Chunk from client 4007 of file 8.txt has been correctly downloaded. Length: 65536 , with offset: 393216
+INFO:root:
+Chunk from client 4008 of file 8.txt has been correctly downloaded. Length: 65536 , with offset: 458752
+INFO:root:Downloading Chunk 9 from: ["'127.0.0.1'", "'40010'"]. Size: 65536 with offset: 589824
+INFO:root:
+Connected to peer : 127.0.0.1 : 40010
+INFO:root:Downloading Chunk 10 from: ["'127.0.0.1'", "'40011'"]. Size: 65536 with offset: 655360
+INFO:root:
+Connected to peer : 127.0.0.1 : 4009
+INFO:root:Downloading Chunk 11 from: ["'127.0.0.1'", "'40012'"]. Size: 65536 with offset: 720896
+INFO:root:
+Connected to peer : 127.0.0.1 : 40011
+INFO:root:Downloading Chunk 12 from: ["'127.0.0.1'", "'40013'"]. Size: 65536 with offset: 786432
+INFO:root:Downloading Chunk 13 from: ["'127.0.0.1'", "'40014'"]. Size: 65536 with offset: 851968
+INFO:root:
+Connected to peer : 127.0.0.1 : 40013
+INFO:root:
+Connected to peer : 127.0.0.1 : 40012
+INFO:root:
+Connected to peer : 127.0.0.1 : 40014
+INFO:root:
+Chunk from client 40011 of file 8.txt has been correctly downloaded. Length: 65536 , with offset: 655360
+INFO:root:
+Chunk from client 40010 of file 8.txt has been correctly downloaded. Length: 65536 , with offset: 589824
+INFO:root:
+Chunk from client 40012 of file 8.txt has been correctly downloaded. Length: 65536 , with offset: 720896
+INFO:root:
+Chunk from client 40014 of file 8.txt has been correctly downloaded. Length: 65536 , with offset: 851968
+INFO:root:Downloading Chunk 14 from: ["'127.0.0.1'", "'40015'"]. Size: 65536 with offset: 917504
+INFO:root:Downloading Chunk 15 from: ["'127.0.0.1'", "'40016'"]. Size: 65536 with offset: 983040
+INFO:root:
+Chunk from client 4009 of file 8.txt has been correctly downloaded. Length: 65536 , with offset: 524288
+INFO:root:
+Connected to peer : 127.0.0.1 : 40015
+INFO:root:
+Connected to peer : 127.0.0.1 : 40016
+INFO:root:
+Chunk from client 40013 of file 8.txt has been correctly downloaded. Length: 65536 , with offset: 786432
+INFO:root:
+Chunk from client 40015 of file 8.txt has been correctly downloaded. Length: 65536 , with offset: 917504
+INFO:root:
+Chunk from client 40016 of file 8.txt has been correctly downloaded. Length: 65536 , with offset: 983040
+INFO:root:
+File 8.txt correctly downloaded from:
+
+INFO:root:	--> Client 4001 , chunk 0. At time: 1617852533.8683329
+INFO:root:	--> Client 4002 , chunk 1. At time: 1617852533.8732035
+INFO:root:	--> Client 4003 , chunk 2. At time: 1617852533.8797274
+INFO:root:	--> Client 4004 , chunk 3. At time: 1617852533.8676822
+INFO:root:	--> Client 4005 , chunk 4. At time: 1617852533.878696
+INFO:root:	--> Client 4006 , chunk 5. At time: 1617852533.8852692
+INFO:root:	--> Client 4007 , chunk 6. At time: 1617852533.8844743
+INFO:root:	--> Client 4008 , chunk 7. At time: 1617852533.8874946
+INFO:root:	--> Client 4009 , chunk 8. At time: 1617852533.9050722
+INFO:root:	--> Client 40010 , chunk 9. At time: 1617852533.8942907
+INFO:root:	--> Client 40011 , chunk 10. At time: 1617852533.8969893
+INFO:root:	--> Client 40012 , chunk 11. At time: 1617852533.8992875
+INFO:root:	--> Client 40013 , chunk 12. At time: 1617852533.9076722
+INFO:root:	--> Client 40014 , chunk 13. At time: 1617852533.9012206
+INFO:root:	--> Client 40015 , chunk 14. At time: 1617852533.915067
+INFO:root:	--> Client 40016 , chunk 15. At time: 1617852533.9163315
+INFO:root:
+Total time to download all the chunks: 0.05472397804260254 sec.
+INFO:root:
+ File: 9.txt has been queried for download.
+INFO:root:Downloading Chunk 0 from: ["'127.0.0.1'", "'4001'"]. Size: 65536 with offset: 0
+INFO:root:
+Connected to peer : 127.0.0.1 : 4001
+INFO:root:Downloading Chunk 1 from: ["'127.0.0.1'", "'4002'"]. Size: 65536 with offset: 65536
+INFO:root:Downloading Chunk 2 from: ["'127.0.0.1'", "'4003'"]. Size: 65536 with offset: 131072
+INFO:root:
+Connected to peer : 127.0.0.1 : 4002
+INFO:root:Downloading Chunk 3 from: ["'127.0.0.1'", "'4004'"]. Size: 65536 with offset: 196608
+INFO:root:
+Chunk from client 4001 of file 9.txt has been correctly downloaded. Length: 65536 , with offset: 0
+INFO:root:
+Chunk from client 4002 of file 9.txt has been correctly downloaded. Length: 65536 , with offset: 65536
+INFO:root:
+Connected to peer : 127.0.0.1 : 4004
+INFO:root:
+Connected to peer : 127.0.0.1 : 4003
+INFO:root:Downloading Chunk 4 from: ["'127.0.0.1'", "'4005'"]. Size: 65536 with offset: 262144
+INFO:root:
+Connected to peer : 127.0.0.1 : 4005
+INFO:root:Downloading Chunk 5 from: ["'127.0.0.1'", "'4006'"]. Size: 65536 with offset: 327680
+INFO:root:
+Chunk from client 4003 of file 9.txt has been correctly downloaded. Length: 65536 , with offset: 131072
+INFO:root:
+Chunk from client 4004 of file 9.txt has been correctly downloaded. Length: 65536 , with offset: 196608
+INFO:root:Downloading Chunk 6 from: ["'127.0.0.1'", "'4007'"]. Size: 65536 with offset: 393216
+INFO:root:
+Chunk from client 4005 of file 9.txt has been correctly downloaded. Length: 65536 , with offset: 262144
+INFO:root:Downloading Chunk 7 from: ["'127.0.0.1'", "'4008'"]. Size: 65536 with offset: 458752
+INFO:root:
+Connected to peer : 127.0.0.1 : 4007
+INFO:root:
+Connected to peer : 127.0.0.1 : 4006
+INFO:root:
+Connected to peer : 127.0.0.1 : 4008
+INFO:root:Downloading Chunk 8 from: ["'127.0.0.1'", "'4009'"]. Size: 65536 with offset: 524288
+INFO:root:
+Chunk from client 4007 of file 9.txt has been correctly downloaded. Length: 65536 , with offset: 393216
+INFO:root:Downloading Chunk 9 from: ["'127.0.0.1'", "'40010'"]. Size: 65536 with offset: 589824
+INFO:root:
+Chunk from client 4006 of file 9.txt has been correctly downloaded. Length: 65536 , with offset: 327680
+INFO:root:
+Connected to peer : 127.0.0.1 : 4009
+INFO:root:
+Chunk from client 4008 of file 9.txt has been correctly downloaded. Length: 65536 , with offset: 458752
+INFO:root:Downloading Chunk 10 from: ["'127.0.0.1'", "'40011'"]. Size: 65536 with offset: 655360
+INFO:root:Downloading Chunk 11 from: ["'127.0.0.1'", "'40012'"]. Size: 65536 with offset: 720896
+INFO:root:
+Connected to peer : 127.0.0.1 : 40011
+INFO:root:
+Connected to peer : 127.0.0.1 : 40010
+INFO:root:Downloading Chunk 12 from: ["'127.0.0.1'", "'40013'"]. Size: 65536 with offset: 786432
+INFO:root:
+Connected to peer : 127.0.0.1 : 40012
+INFO:root:
+Chunk from client 4009 of file 9.txt has been correctly downloaded. Length: 65536 , with offset: 524288
+INFO:root:Downloading Chunk 13 from: ["'127.0.0.1'", "'40014'"]. Size: 65536 with offset: 851968
+INFO:root:
+Chunk from client 40011 of file 9.txt has been correctly downloaded. Length: 65536 , with offset: 655360
+INFO:root:
+Chunk from client 40010 of file 9.txt has been correctly downloaded. Length: 65536 , with offset: 589824
+INFO:root:
+Connected to peer : 127.0.0.1 : 40013
+INFO:root:Downloading Chunk 14 from: ["'127.0.0.1'", "'40015'"]. Size: 65536 with offset: 917504
+INFO:root:
+Chunk from client 40012 of file 9.txt has been correctly downloaded. Length: 65536 , with offset: 720896
+INFO:root:
+Connected to peer : 127.0.0.1 : 40014
+INFO:root:
+Connected to peer : 127.0.0.1 : 40015
+INFO:root:Downloading Chunk 15 from: ["'127.0.0.1'", "'40016'"]. Size: 65536 with offset: 983040
+INFO:root:
+Connected to peer : 127.0.0.1 : 40016
+INFO:root:
+Chunk from client 40013 of file 9.txt has been correctly downloaded. Length: 65536 , with offset: 786432
+INFO:root:
+Chunk from client 40014 of file 9.txt has been correctly downloaded. Length: 65536 , with offset: 851968
+INFO:root:
+Chunk from client 40015 of file 9.txt has been correctly downloaded. Length: 65536 , with offset: 917504
+INFO:root:
+Chunk from client 40016 of file 9.txt has been correctly downloaded. Length: 65536 , with offset: 983040
+INFO:root:
+File 9.txt correctly downloaded from:
+
+INFO:root:	--> Client 4001 , chunk 0. At time: 1617852534.8864038
+INFO:root:	--> Client 4002 , chunk 1. At time: 1617852534.886448
+INFO:root:	--> Client 4003 , chunk 2. At time: 1617852534.8908424
+INFO:root:	--> Client 4004 , chunk 3. At time: 1617852534.8908637
+INFO:root:	--> Client 4005 , chunk 4. At time: 1617852534.89252
+INFO:root:	--> Client 4006 , chunk 5. At time: 1617852534.8961008
+INFO:root:	--> Client 4007 , chunk 6. At time: 1617852534.8969266
+INFO:root:	--> Client 4008 , chunk 7. At time: 1617852534.896571
+INFO:root:	--> Client 4009 , chunk 8. At time: 1617852534.9031978
+INFO:root:	--> Client 40010 , chunk 9. At time: 1617852534.90572
+INFO:root:	--> Client 40011 , chunk 10. At time: 1617852534.9042892
+INFO:root:	--> Client 40012 , chunk 11. At time: 1617852534.9092345
+INFO:root:	--> Client 40013 , chunk 12. At time: 1617852534.9134796
+INFO:root:	--> Client 40014 , chunk 13. At time: 1617852534.91535
+INFO:root:	--> Client 40015 , chunk 14. At time: 1617852534.9159298
+INFO:root:	--> Client 40016 , chunk 15. At time: 1617852534.9188495
+INFO:root:
+Total time to download all the chunks: 0.036947011947631836 sec.
+INFO:root:
+ File: 10.txt has been queried for download.
+INFO:root:Downloading Chunk 0 from: ["'127.0.0.1'", "'4001'"]. Size: 65536 with offset: 0
+INFO:root:Downloading Chunk 1 from: ["'127.0.0.1'", "'4002'"]. Size: 65536 with offset: 65536
+INFO:root:
+Connected to peer : 127.0.0.1 : 4001
+INFO:root:Downloading Chunk 2 from: ["'127.0.0.1'", "'4003'"]. Size: 65536 with offset: 131072
+INFO:root:
+Connected to peer : 127.0.0.1 : 4003
+INFO:root:
+Connected to peer : 127.0.0.1 : 4002
+INFO:root:Downloading Chunk 3 from: ["'127.0.0.1'", "'4004'"]. Size: 65536 with offset: 196608
+INFO:root:Downloading Chunk 4 from: ["'127.0.0.1'", "'4005'"]. Size: 65536 with offset: 262144
+INFO:root:
+Connected to peer : 127.0.0.1 : 4004
+INFO:root:Downloading Chunk 5 from: ["'127.0.0.1'", "'4006'"]. Size: 65536 with offset: 327680
+INFO:root:Downloading Chunk 6 from: ["'127.0.0.1'", "'4007'"]. Size: 65536 with offset: 393216
+INFO:root:
+Chunk from client 4001 of file 10.txt has been correctly downloaded. Length: 65536 , with offset: 0
+INFO:root:
+Chunk from client 4003 of file 10.txt has been correctly downloaded. Length: 65536 , with offset: 131072
+INFO:root:
+Connected to peer : 127.0.0.1 : 4005
+INFO:root:
+Chunk from client 4002 of file 10.txt has been correctly downloaded. Length: 65536 , with offset: 65536
+INFO:root:
+Chunk from client 4004 of file 10.txt has been correctly downloaded. Length: 65536 , with offset: 196608
+INFO:root:Downloading Chunk 7 from: ["'127.0.0.1'", "'4008'"]. Size: 65536 with offset: 458752
+INFO:root:
+Connected to peer : 127.0.0.1 : 4006
+INFO:root:
+Chunk from client 4005 of file 10.txt has been correctly downloaded. Length: 65536 , with offset: 262144
+INFO:root:
+Connected to peer : 127.0.0.1 : 4007
+INFO:root:
+Chunk from client 4006 of file 10.txt has been correctly downloaded. Length: 65536 , with offset: 327680
+INFO:root:Downloading Chunk 8 from: ["'127.0.0.1'", "'4009'"]. Size: 65536 with offset: 524288
+INFO:root:
+Chunk from client 4007 of file 10.txt has been correctly downloaded. Length: 65536 , with offset: 393216
+INFO:root:
+Connected to peer : 127.0.0.1 : 4008
+INFO:root:
+Connected to peer : 127.0.0.1 : 4009
+INFO:root:Downloading Chunk 9 from: ["'127.0.0.1'", "'40010'"]. Size: 65536 with offset: 589824
+INFO:root:
+Chunk from client 4008 of file 10.txt has been correctly downloaded. Length: 65536 , with offset: 458752
+INFO:root:Downloading Chunk 10 from: ["'127.0.0.1'", "'40011'"]. Size: 65536 with offset: 655360
+INFO:root:Downloading Chunk 11 from: ["'127.0.0.1'", "'40012'"]. Size: 65536 with offset: 720896
+INFO:root:
+Connected to peer : 127.0.0.1 : 40010
+INFO:root:
+Chunk from client 4009 of file 10.txt has been correctly downloaded. Length: 65536 , with offset: 524288
+INFO:root:
+Connected to peer : 127.0.0.1 : 40011
+INFO:root:Downloading Chunk 12 from: ["'127.0.0.1'", "'40013'"]. Size: 65536 with offset: 786432
+INFO:root:Downloading Chunk 13 from: ["'127.0.0.1'", "'40014'"]. Size: 65536 with offset: 851968
+INFO:root:
+Connected to peer : 127.0.0.1 : 40012
+INFO:root:Downloading Chunk 14 from: ["'127.0.0.1'", "'40015'"]. Size: 65536 with offset: 917504
+INFO:root:
+Chunk from client 40011 of file 10.txt has been correctly downloaded. Length: 65536 , with offset: 655360
+INFO:root:
+Chunk from client 40010 of file 10.txt has been correctly downloaded. Length: 65536 , with offset: 589824
+INFO:root:Downloading Chunk 15 from: ["'127.0.0.1'", "'40016'"]. Size: 65536 with offset: 983040
+INFO:root:
+Connected to peer : 127.0.0.1 : 40013
+INFO:root:
+Connected to peer : 127.0.0.1 : 40014
+INFO:root:
+Connected to peer : 127.0.0.1 : 40015
+INFO:root:
+Chunk from client 40012 of file 10.txt has been correctly downloaded. Length: 65536 , with offset: 720896
+INFO:root:
+Chunk from client 40013 of file 10.txt has been correctly downloaded. Length: 65536 , with offset: 786432
+INFO:root:
+Chunk from client 40014 of file 10.txt has been correctly downloaded. Length: 65536 , with offset: 851968
+INFO:root:
+Chunk from client 40015 of file 10.txt has been correctly downloaded. Length: 65536 , with offset: 917504
+INFO:root:
+Connected to peer : 127.0.0.1 : 40016
+INFO:root:
+Chunk from client 40016 of file 10.txt has been correctly downloaded. Length: 65536 , with offset: 983040
+INFO:root:
+File 10.txt correctly downloaded from:
+
+INFO:root:	--> Client 4001 , chunk 0. At time: 1617852535.9052515
+INFO:root:	--> Client 4002 , chunk 1. At time: 1617852535.9053192
+INFO:root:	--> Client 4003 , chunk 2. At time: 1617852535.9081352
+INFO:root:	--> Client 4004 , chunk 3. At time: 1617852535.915946
+INFO:root:	--> Client 4005 , chunk 4. At time: 1617852535.9222963
+INFO:root:	--> Client 4006 , chunk 5. At time: 1617852535.9268327
+INFO:root:	--> Client 4007 , chunk 6. At time: 1617852535.9289134
+INFO:root:	--> Client 4008 , chunk 7. At time: 1617852535.9336987
+INFO:root:	--> Client 4009 , chunk 8. At time: 1617852535.9380949
+INFO:root:	--> Client 40010 , chunk 9. At time: 1617852535.9423034
+INFO:root:	--> Client 40011 , chunk 10. At time: 1617852535.9445639
+INFO:root:	--> Client 40012 , chunk 11. At time: 1617852535.9490058
+INFO:root:	--> Client 40013 , chunk 12. At time: 1617852535.9523454
+INFO:root:	--> Client 40014 , chunk 13. At time: 1617852535.9529347
+INFO:root:	--> Client 40015 , chunk 14. At time: 1617852535.9541032
+INFO:root:	--> Client 40016 , chunk 15. At time: 1617852535.9589896
+INFO:root:
+Total time to download all the chunks: 0.061142683029174805 sec.
