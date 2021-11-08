@@ -1,0 +1,13 @@
+INFO:root:
+Connected to SUPER PEER: 127.0.0.1 : 3008
+INFO:root:Listening as 127.0.0.1 : 6006
+
+INFO:root:Registered for Peer-to-Peer downloads
+INFO:root:Client('127.0.0.1', 60264) connected.  Total connections: 2
+INFO:root:
+ File: test3.txt has been queried for download.
+INFO:root:
+Connected to peer : 127.0.0.1 : 6004
+INFO:root:
+File test3.txt (2099 bytes ) successfully downloaded. Time taken: 0.00015544891357421875
+INFO:root:0.0007687807083129883

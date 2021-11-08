@@ -1,0 +1,60 @@
+INFO:root:
+Connected to SUPER PEER: 127.0.0.1 : 3000
+INFO:root:Listening as 127.0.0.1 : 6004
+
+INFO:root:Registered for Peer-to-Peer downloads
+INFO:root:Client('127.0.0.1', 52514) connected.  Total connections: 2
+INFO:root:Client('127.0.0.1', 52528) connected.  Total connections: 3
+INFO:root:File specs received
+INFO:root:
+File test2.txt (8324 bytes) sent to client: ('127.0.0.1', 52528). Time taken: 8.058547973632812e-05
+INFO:root:
+File test2.txt successfully sent to client: ('127.0.0.1', 52528)
+INFO:root:
+ File: test1.txt has been queried for download.
+INFO:root:
+Connected to peer : 127.0.0.1 : 6005
+INFO:root:
+File test1.txt (33300 bytes ) successfully downloaded. Time taken: 0.04277610778808594
+INFO:root:
+ Number of queryhitsfor query fe10851b-4023-47f6-b0de-c653128906ce: 2
+INFO:root:
+ Average queryhit time: 0.001049041748046875
+INFO:root:Client('127.0.0.1', 52538) connected.  Total connections: 3
+INFO:root:File specs received
+INFO:root:
+File test4.txt (512 bytes) sent to client: ('127.0.0.1', 52538). Time taken: 3.6716461181640625e-05
+INFO:root:
+File test4.txt successfully sent to client: ('127.0.0.1', 52538)
+INFO:root:Client('127.0.0.1', 52540) connected.  Total connections: 3
+INFO:root:File specs received
+INFO:root:
+File test1.txt (33300 bytes) sent to client: ('127.0.0.1', 52540). Time taken: 0.00016927719116210938
+INFO:root:
+File test1.txt successfully sent to client: ('127.0.0.1', 52540)
+INFO:root:
+ File: test1.txt has been queried for download.
+INFO:root:
+Connected to peer : 127.0.0.1 : 6005
+INFO:root:
+File test1.txt (33300 bytes ) successfully downloaded. Time taken: 0.0433192253112793
+INFO:root:
+ Number of queryhitsfor query 6cb99243-fd78-4c17-8e55-c03e917a8645: 1
+INFO:root:
+ Average queryhit time: 0.0004363059997558594
+INFO:root:Client('127.0.0.1', 52546) connected.  Total connections: 3
+INFO:root:File specs received
+INFO:root:
+File test1.txt (33300 bytes) sent to client: ('127.0.0.1', 52546). Time taken: 0.0002307891845703125
+INFO:root:
+File test1.txt successfully sent to client: ('127.0.0.1', 52546)
+INFO:root:
+ File: test1.txt has been queried for download.
+INFO:root:
+Connected to peer : 127.0.0.1 : 6005
+INFO:root:
+File test1.txt (33300 bytes ) successfully downloaded. Time taken: 0.04401111602783203
+INFO:root:
+ Number of queryhitsfor query 0d5c4516-a624-480f-9388-86fba2c4fa14: 2
+INFO:root:
+ Average queryhit time: 0.0007680654525756836

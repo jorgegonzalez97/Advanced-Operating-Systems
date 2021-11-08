@@ -1,0 +1,106 @@
+INFO:root:
+Connected to SUPER PEER: 127.0.0.1 : 3004
+INFO:root:Listening as 127.0.0.1 : 6005
+
+INFO:root:Registered for Peer-to-Peer downloads
+INFO:root:Client('127.0.0.1', 49844) connected.  Total connections: 2
+INFO:root:Client('127.0.0.1', 49850) connected.  Total connections: 3
+INFO:root:File specs received
+INFO:root:
+File test1.txt (33300 bytes) sent to client: ('127.0.0.1', 49850). Time taken: 0.0001747608184814453
+INFO:root:
+File test1.txt successfully sent to client: ('127.0.0.1', 49850)
+INFO:root:
+ File: test2.txt has been queried for download.
+INFO:root:
+Connected to peer : 127.0.0.1 : 6004
+INFO:root:
+File test2.txt (8324 bytes ) successfully downloaded. Time taken: 8.106231689453125e-05
+INFO:root:
+ Number of queryhitsfor query 27e4f991-d180-4ea1-b6af-e3df7f65af65: 1
+INFO:root:
+ Average queryhit time: 0.0009765625
+INFO:root:Client('127.0.0.1', 49854) connected.  Total connections: 3
+INFO:root:File specs received
+INFO:root:
+File test1.txt (33300 bytes) sent to client: ('127.0.0.1', 49854). Time taken: 0.0003733634948730469
+INFO:root:
+File test1.txt successfully sent to client: ('127.0.0.1', 49854)
+INFO:root:
+ File: test1.txt has been queried for download.
+INFO:root:
+Connected to peer : 127.0.0.1 : 6006
+INFO:root:
+File test1.txt (33300 bytes ) successfully downloaded. Time taken: 0.04591250419616699
+INFO:root:
+ Number of queryhitsfor query 4f53f246-e04b-41aa-999e-36f48cc956e8: 1
+INFO:root:
+ Average queryhit time: 0.0009388923645019531
+INFO:root:
+ File: test2.txt has been queried for download.
+INFO:root:
+Connected to peer : 127.0.0.1 : 6006
+INFO:root:
+File test2.txt (8324 bytes ) successfully downloaded. Time taken: 0.0004699230194091797
+INFO:root:
+ Number of queryhitsfor query fa0a0489-ef15-44bb-b4bf-95b1371bade8: 2
+INFO:root:
+ Average queryhit time: 0.000620722770690918
+INFO:root:
+ File: test3.txt has been queried for download.
+INFO:root:
+Connected to peer : 127.0.0.1 : 6006
+INFO:root:
+File test3.txt (2099 bytes ) successfully downloaded. Time taken: 0.00029277801513671875
+INFO:root:
+ Number of queryhitsfor query 0fadbacc-1b84-4600-a8ec-0c0416329fbc: 2
+INFO:root:
+ Average queryhit time: 0.0010373592376708984
+INFO:root:
+ File: test4.txt has been queried for download.
+INFO:root:
+Connected to peer : 127.0.0.1 : 6004
+INFO:root:
+File test4.txt (512 bytes ) successfully downloaded. Time taken: 0.000492095947265625
+INFO:root:
+ Number of queryhitsfor query c1052477-c894-4488-b25d-03ec3cf05785: 2
+INFO:root:
+ Average queryhit time: 0.00087738037109375
+INFO:root:
+ File: test1.txt has been queried for download.
+INFO:root:
+Connected to peer : 127.0.0.1 : 6004
+INFO:root:
+File test1.txt (33300 bytes ) successfully downloaded. Time taken: 0.041651248931884766
+INFO:root:
+ Number of queryhitsfor query 0da1c9a7-2503-44f4-a55b-82b66e337bc3: 1
+INFO:root:
+ Average queryhit time: 0.0006947517395019531
+INFO:root:Client('127.0.0.1', 49866) connected.  Total connections: 3
+INFO:root:File specs received
+INFO:root:
+File test1.txt (33300 bytes) sent to client: ('127.0.0.1', 49866). Time taken: 0.0001819133758544922
+INFO:root:
+File test1.txt successfully sent to client: ('127.0.0.1', 49866)
+INFO:root:Client('127.0.0.1', 49868) connected.  Total connections: 3
+INFO:root:File specs received
+INFO:root:
+File test1.txt (33300 bytes) sent to client: ('127.0.0.1', 49868). Time taken: 0.00015926361083984375
+INFO:root:
+File test1.txt successfully sent to client: ('127.0.0.1', 49868)
+INFO:root:
+ File: test1.txt has been queried for download.
+INFO:root:
+Connected to peer : 127.0.0.1 : 6004
+INFO:root:
+File test1.txt (33300 bytes ) successfully downloaded. Time taken: 0.049214839935302734
+INFO:root:
+ Number of queryhitsfor query 5e91ab8b-42b5-48ad-ad6e-c73fe4ad94c0: 2
+INFO:root:
+ Average queryhit time: 0.0005850791931152344
+INFO:root:Client('127.0.0.1', 49872) connected.  Total connections: 3
+INFO:root:File specs received
+INFO:root:
+File test1.txt (33300 bytes) sent to client: ('127.0.0.1', 49872). Time taken: 0.00025653839111328125
+INFO:root:
+File test1.txt successfully sent to client: ('127.0.0.1', 49872)

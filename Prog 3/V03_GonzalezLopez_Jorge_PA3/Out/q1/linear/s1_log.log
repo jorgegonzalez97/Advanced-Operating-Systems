@@ -1,0 +1,10 @@
+INFO:root:Listening as 127.0.0.1 : 3000
+
+INFO:root:Client('127.0.0.1', 46822) connected to server.  Total connections: 1
+INFO:root:Client('127.0.0.1', 38690) connected to server.  Total connections: 2
+INFO:root:Client: ('127.0.0.1', 38690) registered.
+INFO:root:Client: ('127.0.0.1', 38690) added a file.
+INFO:root:Client: ('127.0.0.1', 38690) added a file.
+INFO:root:Client: ('127.0.0.1', 38690) added a file.
+INFO:root:Client ('127.0.0.1', 38690) disconnected and unregistered.
+INFO:root:Client ('127.0.0.1', 46822) disconnected and unregistered.
